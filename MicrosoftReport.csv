@@ -1,56 +1,402 @@
 Date,Website,Article_Link,Predicted_Sentiment
-2020-12-25 08:32,www.republicworld.com,https://www.republicworld.com/world-news/us-news/russia-linked-hackers-used-microsoft-resellers-in-massive-us-cyberattacks-report.html,Slightly Positive
-2020-12-25 08:07,thetechportal.com,https://thetechportal.com/2020/12/25/hackers-used-microsoft-vendors-to-break-into-systems/,Slightly Positive
-2020-12-24 20:44,www.engadget.com,https://www.engadget.com/microsoft-flight-simulator-vr-review-200246099.html,Positive
-2020-12-25 04:33,www.gizbot.com,https://www.gizbot.com/apps/features/deleting-page-in-ms-word-how-to-delete-a-page-in-microsoft-word-071716.html,Slightly Positive
-2020-12-25 03:45,www.businesstimes.com.sg,https://www.businesstimes.com.sg/technology/suspected-russian-hackers-used-microsoft-vendors-to-breach-customers,Neutral
-2020-12-24 20:29,www.yahoo.com,https://www.yahoo.com/lifestyle/microsoft-flight-simulator-vr-review-200246099.html,Positive
-2020-12-25 03:59,www.nytimes.com,https://www.nytimes.com/2020/12/24/us/russia-microsoft-resellers-cyberattacks.html,Positive
-2020-12-25 02:59,news.abs-cbn.com,https://news.abs-cbn.com/business/12/25/20/suspected-russian-hackers-used-microsoft-vendors-to-breach-customers,Neutral
-2020-12-24 20:29,www.yahoo.com,https://www.yahoo.com/entertainment/microsoft-flight-simulator-vr-review-200246099.html,Positive
-2020-12-25 00:14,www.engadget.com,https://www.engadget.com/cd-projekt-red-cyberpunk-2077-lawsuit-000527021.html,Negative
-2020-12-25 02:42,www.thestar.com.my,https://www.thestar.com.my/tech/tech-news/2020/12/25/suspected-russian-hackers-used-microsoft-vendors-to-breach-customers,Neutral
-2020-12-25 01:59,www.digitalinformationworld.com,https://www.digitalinformationworld.com/2020/12/google-chromes-progressive-web.html,Strongly Positive
-2020-12-24 22:44,www.cnet.com,https://www.cnet.com/news/save-up-to-55-on-xbox-games-and-get-50-off-turtle-beach-headphones/,Positive
-2020-12-25 02:15,www.wionews.com,https://www.wionews.com/world/russian-hackers-used-microsoft-vendors-to-breach-customers-investigators-say-352175,Neutral
-2020-12-25 01:54,www.scmp.com,https://www.scmp.com/tech/big-tech/article/3115323/suspected-russian-hackers-used-microsoft-vendors-breach-customers,Positive
-2020-12-24 21:59,mspoweruser.com,https://mspoweruser.com/windows-10-elevation-of-privilege-flaw-in-windows-10/,Slightly Negative
-2020-12-25 00:50,boingboing.net,https://boingboing.net/2020/12/24/russian-hackers-used-microsoft-vendors-to-breach-customers-report.html,Neutral
-2020-12-25 01:08,thehill.com,https://thehill.com/policy/technology/531649-hackers-accessed-microsoft-cloud-customers-information-through-third-party,Neutral
-2020-12-24 22:29,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-brings-email-notifications-on-new-incidents-104605/,Positive
-2020-12-24 21:59,www.notebookcheck.net,https://www.notebookcheck.net/Best-Buy-is-trying-hard-to-get-rid-of-its-4-GB-Microsoft-Surface-Pro-7-stock-for-560-USD.512181.0.html,Positive
-2020-12-25 00:22,www.washingtonpost.com,https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html,Neutral
-2020-12-24 18:44,mspoweruser.com,https://mspoweruser.com/here-is-what-coming-to-microsoft-edge-in-2021/,Positive
-2020-12-24 20:29,www.crn.com,https://www.crn.com/news/security/crowdstrike-fends-off-attack-attempted-by-solarwinds-hackers,Neutral
-2020-12-24 19:59,www.cyberscoop.com,https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/,Neutral
-2020-12-24 22:05,www.voanews.com,https://www.voanews.com/silicon-valley-technology/suspected-russian-hackers-used-microsoft-vendors-breach-customers,Neutral
-2020-12-24 20:14,www.pcgamer.com,https://www.pcgamer.com/the-best-settings-for-microsoft-flight-simulator/,Slightly Positive
-2020-12-24 20:14,www.windowslatest.com,https://www.windowslatest.com/2020/12/25/microsoft-surface-duo-2-could-launch-with-a-great-camera-in-2021/,Slightly Positive
-2020-12-24 21:09,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/suspected-russian-hackers-used-microsoft-vendors-to-breach-customers-13840266,Neutral
-2020-12-24 15:14,www.hackread.com,https://www.hackread.com/google-unpatched-0day-microsoft-api-vulnerability/,Slightly Negative
-2020-12-24 18:59,www.cnbc.com,https://www.cnbc.com/2020/12/24/suspected-russian-hackers-made-failed-attempt-to-breach-crowdstrike.html,Slightly Negative
-2020-12-24 20:39,www.reuters.com,https://www.reuters.com/article/us-global-cyber-usa/suspected-russian-hackers-used-microsoft-vendors-to-breach-customers-idUSKBN28Y1BF,Neutral
-2020-12-24 20:35,www.reuters.com,https://www.reuters.com/article/us-global-cyber-usa/suspected-russian-hackers-made-failed-attempt-to-breach-crowdstrike-company-says-idUSKBN28Y1BF,Neutral
-2020-12-24 20:07,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-flight-simulator-vr-review-200246099.html,Positive
-2020-12-24 19:29,medium.com,https://medium.com/pcmag-access/microsoft-flight-simulator-can-now-be-played-in-virtual-reality-4f2882318e6a%3Fsource%3Dtopic_page---------0------------------1----------,Neutral
-2020-12-24 18:29,aithority.com,https://aithority.com/security/digital-defense-joins-microsoft-intelligent-security-association/,Positive
-2020-12-24 17:44,www.techradar.com,https://www.techradar.com/news/microsoft-edge-is-attempting-to-reinvent-the-toolbar,Positive
-2020-12-24 13:29,www.thestreet.com,https://www.thestreet.com/investing/alibaba-zoom-video-square-nikola-premarket-movers-thursday,Slightly Positive
-2020-12-24 10:29,www.techradar.com,https://www.techradar.com/news/microsoft-word-in-windows-10-will-now-use-ai-to-make-you-a-better-writer,Positive
-2020-12-24 16:14,www.unilad.co.uk,https://www.unilad.co.uk/technology/microsoft-surface-laptop-go-review-great-design-and-amazing-build-quality/,Strongly Positive
-2020-12-24 16:14,www.howtogeek.com,https://www.howtogeek.com/696416/how-to-mark-a-message-in-microsoft-teams-as-important-or-urgent/,Slightly Positive
-2020-12-24 14:14,www.devdiscourse.com,https://www.devdiscourse.com/article/headlines/1382941-dgt-partners-with-microsoft-nasscom-to-provide-digital-content-for-iti-students,Positive
-2020-12-24 13:14,www.digitaltrends.com,https://www.digitaltrends.com/dtdeals/microsoft-surface-pro-7-deal-december-2020/,Positive
-2020-12-24 13:14,www.news18.com,https://www.news18.com/news/tech/explained-microsoft-google-whatsapp-vs-cyber-mercenaries-and-your-cyber-security-3211607.html,Slightly Positive
-2020-12-24 13:14,www.bgr.in,https://www.bgr.in/news/microsoft-word-to-receive-a-new-grammar-assistant-for-windows-10-929241/,Slightly Positive
-2020-12-24 16:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-bastia-poretta-lfkb-review/,Positive
-2020-12-24 15:44,www.eurogamer.net,https://www.eurogamer.net/articles/2020-12-24-microsoft-flight-sims-virtual-reality-update-hits-home,Strongly Positive
-2020-12-24 15:44,www.investopedia.com,https://www.investopedia.com/microsoft-msft-joins-legal-fight-against-spyware-vendor-nso-group-5093631,Slightly Positive
-2020-12-24 12:44,www.scmagazine.com,https://www.scmagazine.com/perspectives/seven-questions-for-assessing-microsoft-365-enterprises-security-controls/,Positive
-2020-12-24 11:44,www.techradar.com,https://www.techradar.com/deals/this-is-the-cheapest-microsoft-surface-go-tablet-rival-and-it-even-comes-with-a-pen,Slightly Positive
-2020-12-24 10:44,www.zdnet.com,https://www.zdnet.com/article/zoom-eyes-email-and-calendar-app-to-take-on-google-and-microsoft-says-report/,Slightly Positive
-2020-12-24 10:44,www.t3.com,https://www.t3.com/news/zoom-under-fire-as-microsoft-teams-gets-killer-new-feature-heres-how-to-use-it-2,Positive
-2020-12-24 08:44,www.financialexpress.com,https://www.financialexpress.com/industry/technology/zoom-maybe-looking-to-take-on-gmail-and-outlook-with-its-own-email-service-details/2156679/,Neutral
-2020-12-24 03:44,www.gadgetsnow.com,https://www.gadgetsnow.com/featured/use-the-same-video-filters-in-google-meet-microsoft-teams-and-zoom/articleshow/79933891.cms,Slightly Positive
-2020-12-24 00:44,arstechnica.com,https://arstechnica.com/gaming/2020/12/microsoft-flight-simulator-finally-works-in-vr-but-not-quite-cleared-for-takeoff/,Slightly Positive
-2020-12-24 02:44,techcrunch.com,https://techcrunch.com/2020/12/23/google-reportedly-tightens-grip-on-research-into-sensitive-topics/,Positive
+2020-12-29 11:10,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:03,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:24,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-29 11:03,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:09,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-29 08:54,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:54,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-29 08:39,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 08:24,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 08:09,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 19:09,www.microsoft.com,https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/,Neutral
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-29 08:54,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 19:54,www.microsoft.com,https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/,Neutral
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-29 08:39,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 08:24,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 19:24,www.microsoft.com,https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/,Neutral
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-29 08:09,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 07:57,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 07:57,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 07:57,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 22:09,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:39,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:24,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 22:09,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:39,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:24,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 22:09,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-tottori-detective-conan-airport/,Positive
+2020-12-29 04:31,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 04:31,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-29 04:31,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:39,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:24,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-29 03:20,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:09,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-29 03:20,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:54,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-29 03:20,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:39,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-29 03:20,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:24,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:09,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:09,mspoweruser.com,https://mspoweruser.com/microsoft-is-looking-to-sell-swappable-lid-panels-for-the-surface-laptop/,Slightly Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:54,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:39,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:39,www.neowin.net,https://www.neowin.net/news/amazon-is-giving-away-a-40-gift-card-if-you-subscribe-to-microsoft-365,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:24,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:24,www.thestreet.com,https://www.thestreet.com/investing/trading-the-nasdaq-at-all-time-highs,Slightly Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:09,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:09,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:54,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:39,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:24,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:24,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:09,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-29 00:06,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 21:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:54,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:39,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:39,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 18:39,petri.com,https://petri.com/microsoft-is-bringing-an-approval-workflow-feature-to-teams,Slightly Positive
+2020-12-28 18:39,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/,Neutral
+2020-12-28 23:37,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:24,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 21:24,hothardware.com,https://hothardware.com/news/windows-10x-modern-standby,Positive
+2020-12-28 20:24,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-28 23:37,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-28 22:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-up-765-points-in-december-hits-new-highs-when-to-buy-microsoft/,Slightly Positive
+2020-12-28 21:09,mspoweruser.com,https://mspoweruser.com/microsoft-xbox-gamers-rewards-points/,Positive
+2020-12-28 20:09,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-helsinki-airport/,Slightly Positive
+2020-12-28 19:09,petri.com,https://petri.com/microsoft-is-bringing-an-approval-workflow-feature-to-teams,Slightly Positive
+2020-12-28 18:09,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/,Neutral

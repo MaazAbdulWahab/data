@@ -1,4 +1,925 @@
 Date,Website,Article_Link,Predicted_Sentiment
+2020-12-30 11:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:10,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 09:10,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:10,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:10,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:10,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:10,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 10:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:55,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 08:55,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:55,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:55,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:55,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:55,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 10:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:40,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 08:40,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:40,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:40,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:40,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:40,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 10:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:25,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 08:25,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:25,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:25,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:25,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:25,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 10:18,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:10,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 09:10,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:10,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:10,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:10,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:10,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 05:10,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 10:18,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 09:58,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 08:55,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:55,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:55,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:55,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:55,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:55,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 10:17,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 09:58,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 09:40,dailyhodl.com,https://dailyhodl.com/2020/12/30/ethereum-rival-polkadot-soars-after-receiving-burst-of-support-from-binance/,Slightly Positive
+2020-12-30 08:40,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:40,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:40,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:40,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:40,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 10:18,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 09:58,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 09:36,dailyhodl.com,https://dailyhodl.com/2020/12/30/ethereum-rival-polkadot-soars-after-receiving-burst-of-support-from-binance/,Slightly Positive
+2020-12-30 08:25,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:25,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:25,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:25,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:25,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 09:58,uk.sports.yahoo.com,https://uk.sports.yahoo.com/news/latest-ethereum-price-analysis-eth-094722693.html,Slightly Positive
+2020-12-30 09:36,dailyhodl.com,https://dailyhodl.com/2020/12/30/ethereum-rival-polkadot-soars-after-receiving-burst-of-support-from-binance/,Slightly Positive
+2020-12-30 09:10,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:10,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:10,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:10,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:10,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 05:10,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 09:36,dailyhodl.com,https://dailyhodl.com/2020/12/30/ethereum-rival-polkadot-soars-after-receiving-burst-of-support-from-binance/,Slightly Positive
+2020-12-30 08:55,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:55,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:55,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:55,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:55,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:55,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 09:36,dailyhodl.com,https://dailyhodl.com/2020/12/30/ethereum-rival-polkadot-soars-after-receiving-burst-of-support-from-binance/,Slightly Positive
+2020-12-30 08:40,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:40,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:40,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:40,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:40,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:40,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:40,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 08:25,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:25,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:25,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:25,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:25,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:25,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:25,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 08:24,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:10,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:10,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:10,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:10,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 05:10,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:10,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 04:10,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 08:24,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:04,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:55,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:55,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:55,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:55,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:55,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 01:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 08:24,coingeek.com,https://coingeek.com/ethereum-researcher-virgil-griffiths-trial-to-start-in-september-2021/,Neutral
+2020-12-30 08:04,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:40,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:40,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:40,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:40,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:40,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 08:04,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:25,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:25,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:25,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:25,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-30 08:04,dailyhodl.com,https://dailyhodl.com/2020/12/30/crypto-asset-built-on-ethereum-rallies-6548-in-just-24-hours-heres-why/,Neutral
+2020-12-30 06:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:10,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:10,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:10,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 05:10,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:10,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 04:10,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 06:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:55,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:55,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:55,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:55,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 01:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:55,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 06:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:40,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:40,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:40,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:40,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:40,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:40,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 06:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:25,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:25,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:25,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:25,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-30 02:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:25,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 06:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 06:10,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 06:10,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:10,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 05:10,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:10,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 04:10,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:10,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 05:56,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:55,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:55,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:55,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:55,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 01:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:55,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 05:56,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:47,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:40,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:40,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:40,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:40,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:40,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 05:56,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:47,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:30,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:25,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:25,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:25,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:25,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 05:56,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:47,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:28,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 05:10,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 05:10,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:10,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 04:10,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-30 05:47,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-003001987.html,Neutral
+2020-12-30 05:28,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:55,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:55,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:55,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 01:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:55,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-30 05:28,www.newsbtc.com,https://www.newsbtc.com/analysis/eth/ethereum-could-rally-above-750/,Slightly Positive
+2020-12-30 04:40,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:40,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 02:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:40,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:40,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-30 04:26,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Positive
+2020-12-30 04:25,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:25,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 02:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:25,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:25,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-30 04:26,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:15,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 04:10,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 02:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:10,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:10,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 21:10,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-30 04:26,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:15,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:55,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 01:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:55,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:55,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-30 04:26,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 04:15,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:40,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:40,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-30 04:15,www.explica.co,https://www.explica.co/binance-smart-chain-heading-to-overtake-ethereum/,Positive
+2020-12-30 03:37,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 03:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:25,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:25,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-30 03:37,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 03:22,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 02:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:10,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:10,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 21:10,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-30 03:37,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 03:34,fintechzoom.com,https://fintechzoom.com/fintech_news_bitcoin-price/bitcoin-price-ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes/,Slightly Positive
+2020-12-30 03:22,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170733-huobi-group-explains-how-ethereum-will-be-merging-two-digital-assets-beth-and-eth-as-it-transitions-to-eth-2-0/,Positive
+2020-12-30 01:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:55,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:55,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-30 03:37,www.cfdtrading.com,https://www.cfdtrading.com/ethereum-eth-closes-prior-hour-up-0-18-in-an-uptrend-over-past-90-days-moves-up-for-the-6th-day-in-a-row-pin-bar-pattern-appearing-on-chart/602535/,Slightly Positive
+2020-12-30 02:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:40,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:40,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-staking-ethereum-eth-is-now-live-on-lido-cryptoninjas/,Positive
+2020-12-29 22:40,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:40,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:40,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-30 02:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:25,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:25,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:25,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 02:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:10,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:10,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 21:10,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:10,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:10,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-30 01:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:55,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:55,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:55,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 01:53,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:40,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:40,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:40,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:40,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:40,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 01:53,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:25,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:25,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:25,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 01:53,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 01:10,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:10,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 21:10,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:10,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:10,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:10,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 01:53,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-on-the-verge-of-a-25-breakout-as-selling-pressure-diminishes-202012300153,Slightly Positive
+2020-12-30 00:55,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:55,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:55,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 00:40,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 23:40,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:40,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:40,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:40,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:40,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 00:34,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 23:25,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 22:25,bitcoinist.com,https://bitcoinist.com/ethereum-is-about-to-test-a-key-btc-resistance-level-what-analysts-are-saying/,Slightly Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:25,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-30 00:34,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Neutral
+2020-12-29 23:10,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 21:10,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:10,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:10,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:10,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:10,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-30 00:34,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Slightly Positive
+2020-12-29 23:55,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:55,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:55,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-30 00:34,www.fxempire.com,https://www.fxempire.com/forecasts/article/ethereum-litecoin-and-ripples-xrp-daily-tech-analysis-december-30th-2020-691294,Slightly Positive
+2020-12-29 23:40,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:40,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:40,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:40,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:40,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-30 00:11,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-analysis-5-day-ema-offers-immediate-support-amid-eth-uptrend-towards-31-month-high-202012300011,Slightly Positive
+2020-12-29 23:25,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:25,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:25,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:25,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 23:10,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 23:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 21:10,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:10,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:10,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:10,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:10,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:10,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 23:00,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:55,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:55,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 16:55,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 23:00,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:40,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:40,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:40,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:40,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:40,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:40,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 23:00,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:25,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:25,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 18:25,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:25,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 23:01,finance.yahoo.com,https://finance.yahoo.com/news/research-sheds-light-front-running-221507216.html,Neutral
+2020-12-29 22:19,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 21:11,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:11,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:11,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:11,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:11,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:11,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 18:11,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:11,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 22:18,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:55,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:55,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 16:55,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:55,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 22:18,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 20:40,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:40,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:40,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:40,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:40,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:40,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:25,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:25,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:25,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:25,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:25,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 21:10,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:10,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:10,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:10,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:10,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:10,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:10,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:10,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 20:55,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:55,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 16:55,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:55,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:55,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:55,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 20:40,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:40,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:40,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:40,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:40,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:40,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:40,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 20:25,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:25,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:25,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:25,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:25,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:25,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 20:16,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 20:10,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 20:10,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:10,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:10,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:10,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:10,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:10,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 20:16,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:55,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:55,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:55,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 16:55,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:55,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:55,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:55,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 20:16,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:43,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:40,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:40,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:40,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:40,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:40,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 20:16,www.cryptopolitan.com,https://www.cryptopolitan.com/ethereum-price-prediction-eth-usd-720/,Positive
+2020-12-29 19:43,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:29,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:25,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:25,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:25,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:25,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:25,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:25,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 19:43,www.cryptoninjas.net,https://www.cryptoninjas.net/2020/12/29/staking-ethereum-eth-is-now-live-on-lido/,Positive
+2020-12-29 19:29,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:12,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:10,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:10,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:10,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:10,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:10,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:10,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:10,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 19:29,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:12,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:00,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 17:55,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 16:55,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:55,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:55,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:55,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:55,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 15:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 19:29,cointelegraph.com,https://cointelegraph.com/news/crypto-enthusiasts-could-make-122k-per-year-mining-ethereum-with-this-setup,Neutral
+2020-12-29 19:12,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:00,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:40,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:40,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:40,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:40,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:40,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:40,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:40,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 19:12,www.explica.co,https://www.explica.co/ethereum-institutional-investors-will-jump-on-eth-in-2021/,Positive
+2020-12-29 19:00,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:25,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 18:25,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:25,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:25,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:25,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:25,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:25,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 19:00,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:10,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 18:10,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:10,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:10,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:10,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:10,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:10,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 17:55,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:55,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 16:55,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:55,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:55,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:55,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:55,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 15:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 15:55,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 17:42,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:40,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:40,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:40,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:40,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:40,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:40,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 15:40,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 17:42,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:39,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:25,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:25,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:25,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:25,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:25,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:25,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 17:42,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 17:39,coinfomania.com,https://coinfomania.com/kraken-jesse-powel-future-bright-is-for-ethereum/,Neutral
+2020-12-29 17:10,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 17:10,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 17:10,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:10,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:10,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:10,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 17:42,sportsgrindentertainment.com,https://sportsgrindentertainment.com/16-ethereum-predictions-from-a-crypto-oracle/,Slightly Positive
+2020-12-29 16:55,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:55,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:55,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:55,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:55,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 15:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 15:55,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 13:55,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 16:48,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:44,finance.yahoo.com,https://finance.yahoo.com/news/16-ethereum-predictions-crypto-oracle-160053754.html,Slightly Positive
+2020-12-29 16:43,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:40,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:40,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:40,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 15:40,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 13:40,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 16:48,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:44,finance.yahoo.com,https://finance.yahoo.com/news/16-ethereum-predictions-crypto-oracle-160053754.html,Slightly Positive
+2020-12-29 16:43,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:32,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:25,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:25,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:25,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 14:25,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 16:48,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:44,finance.yahoo.com,https://finance.yahoo.com/news/16-ethereum-predictions-crypto-oracle-160053754.html,Slightly Positive
+2020-12-29 16:43,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:32,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:10,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:10,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 16:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:10,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 14:10,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 16:48,www.cryptopolitan.com,https://www.cryptopolitan.com/international-cuisine-post-brexit/,Slightly Positive
+2020-12-29 16:44,finance.yahoo.com,https://finance.yahoo.com/news/16-ethereum-predictions-crypto-oracle-160053754.html,Slightly Positive
+2020-12-29 16:43,cryptobriefing.com,https://cryptobriefing.com/institutions-ethereum-bitcoin-allocation-ripple-lawsuit/,Slightly Positive
+2020-12-29 16:32,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:07,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:00,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 15:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 15:55,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 13:55,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 16:32,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-these-10-airdrops-promise-higher-returns-than-the-uni-launch/,Positive
+2020-12-29 16:07,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:00,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 15:45,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 15:40,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 13:40,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:40,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:40,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 10:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 16:07,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:01,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 15:34,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 14:25,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:25,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:25,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 10:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 16:07,financefeeds.com,https://financefeeds.com/ethereums-beacon-chain-go-live-december-brief-overview-guest-editorial/,Positive
+2020-12-29 16:00,cryptodaily.co.uk,https://cryptodaily.co.uk/2020/12/ethereum-101-what-ethereum-is-and-why-it-is-constantly-compared-to-bitcoin,Slightly Positive
+2020-12-29 15:34,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 14:10,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:10,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 13:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:10,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 10:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 15:34,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 13:55,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 12:55,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:55,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 10:55,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 09:55,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:55,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 15:34,cryptoslate.com,https://cryptoslate.com/this-stablecoin-just-moved-from-ethereum-to-tezos-heres-why/,Positive
+2020-12-29 13:40,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:40,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:40,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 11:40,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:40,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:40,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 14:25,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:25,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:25,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 11:25,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:25,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 06:25,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-002018730.html,Slightly Positive
+2020-12-29 09:25,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 09:25,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 14:10,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:10,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 13:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:10,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 11:10,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:10,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:10,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 06:10,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-002018730.html,Slightly Positive
+2020-12-29 09:10,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 13:55,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 12:55,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:55,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 10:55,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 09:55,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:55,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 08:55,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 05:55,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-002018730.html,Strongly Positive
+2020-12-29 13:40,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:40,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:40,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 11:40,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:40,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:40,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 09:40,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 05:40,finance.yahoo.com,https://finance.yahoo.com/news/ethereum-litecoin-ripple-xrp-daily-002018730.html,Strongly Positive
+2020-12-29 13:32,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:25,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:25,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 11:25,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:25,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:25,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 09:25,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:25,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 13:32,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 13:10,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:10,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 12:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 11:10,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:10,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:10,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 09:10,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 09:10,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-institutional-investors-will-buy-huge-amounts-of-eth-in-2021/,Positive
+2020-12-29 13:32,invezz.com,https://invezz.com/news/2020/12/29/what-are-next-targets-for-ethereum-eth-buyers/,Positive
+2020-12-29 12:55,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:55,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 11:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 10:55,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 09:55,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:55,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 08:55,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:55,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-institutional-investors-will-buy-huge-amounts-of-eth-in-2021/,Positive
+2020-12-29 12:41,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:40,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 12:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 11:40,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:40,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:40,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 09:40,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:40,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 08:40,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 12:41,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:25,coinlist.me,https://coinlist.me/news/ethereum-breaks-the-700-mark-as-the-crypto-market-moves-up/,Positive
+2020-12-29 12:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:25,nairametrics.com,https://nairametrics.com/2020/12/29/bad-times-for-xrp-as-coinbase-suspends-xrp-trading/,Slightly Positive
+2020-12-29 11:25,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:25,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:25,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 09:25,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 09:25,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-institutional-investors-will-buy-huge-amounts-of-eth-in-2021/,Positive
+2020-12-29 12:41,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 12:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 12:10,nairametrics.com,https://nairametrics.com/2020/12/29/bad-times-for-xrp-as-coinbase-suspends-xrp-trading/,Slightly Positive
+2020-12-29 11:10,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:10,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:10,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 09:10,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 09:10,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 08:10,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 12:41,en.ethereumworldnews.com,https://en.ethereumworldnews.com/eth-is-undervalued-in-terms-of-institutional-buying-cryptoquant-ceo/,Neutral
+2020-12-29 11:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 10:55,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 09:55,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 08:55,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:55,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 08:55,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 07:55,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 07:55,www.livebitcoinnews.com,https://www.livebitcoinnews.com/ethereum-price-analysis-eth-correcting-gains-680-holds-the-key/,Slightly Positive
+2020-12-29 11:48,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 10:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:40,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:40,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:40,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 08:40,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 07:40,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 07:40,www.livebitcoinnews.com,https://www.livebitcoinnews.com/ethereum-price-analysis-eth-correcting-gains-680-holds-the-key/,Slightly Positive
+2020-12-29 07:40,nairametrics.com,https://nairametrics.com/2020/12/29/bad-times-for-xrp-as-coinbase-suspends-xrp-trading/,Slightly Positive
+2020-12-29 11:48,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 11:25,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:25,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:25,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:25,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 08:25,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 08:25,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 08:25,www.livebitcoinnews.com,https://www.livebitcoinnews.com/ethereum-price-analysis-eth-correcting-gains-680-holds-the-key/,Slightly Positive
+2020-12-29 07:25,nairametrics.com,https://nairametrics.com/2020/12/29/bad-times-for-xrp-as-coinbase-suspends-xrp-trading/,Positive
+2020-12-29 11:10,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:10,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:10,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:10,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 09:10,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 09:10,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 08:10,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 08:10,www.livebitcoinnews.com,https://www.livebitcoinnews.com/ethereum-price-analysis-eth-correcting-gains-680-holds-the-key/,Slightly Positive
+2020-12-29 08:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 08:10,nairametrics.com,https://nairametrics.com/2020/12/29/bad-times-for-xrp-as-coinbase-suspends-xrp-trading/,Positive
+2020-12-29 10:55,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:55,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 09:55,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 08:55,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:55,www.crypto-news-flash.com,https://www.crypto-news-flash.com/ethereum-institutional-investors-will-buy-huge-amounts-of-eth-in-2021/,Positive
+2020-12-29 08:55,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 08:55,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 07:55,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 07:55,www.livebitcoinnews.com,https://www.livebitcoinnews.com/ethereum-price-analysis-eth-correcting-gains-680-holds-the-key/,Slightly Positive
+2020-12-29 07:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 10:41,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
+2020-12-29 10:40,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
+2020-12-29 10:40,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive
+2020-12-29 09:40,ambcrypto.com,https://ambcrypto.com/ethereum-tezos-dash-price-analysis-29-december/,Neutral
+2020-12-29 08:40,en.ethereumworldnews.com,https://en.ethereumworldnews.com/xrp-investors-will-still-get-their-spark-token-airdrop-on-coinbase/,Neutral
+2020-12-29 08:40,cryptocoinspy.com,https://cryptocoinspy.com/ethereum-eth-moving-close-to-100-addresses-in-profit/,Strongly Positive
+2020-12-29 07:40,fintechzoom.com,https://fintechzoom.com/fintech_news_ethereum/ethereum-ethereum-retreats-without-testing-750-why-100-sma-is-the-key/,Slightly Positive
+2020-12-29 07:40,www.livebitcoinnews.com,https://www.livebitcoinnews.com/ethereum-price-analysis-eth-correcting-gains-680-holds-the-key/,Slightly Positive
+2020-12-29 07:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 07:40,nairametrics.com,https://nairametrics.com/2020/12/29/bad-times-for-xrp-as-coinbase-suspends-xrp-trading/,Positive
 2020-12-29 10:41,coingape.com,https://coingape.com/ethereum-eth-is-undervalued-in-terms-of-institutional-buying-estimated-price-903/,Positive
 2020-12-29 10:25,nairametrics.com,https://nairametrics.com/2020/12/28/ethereum-market-value-of-83-8-billion-is-now-bigger-than-nigerian-stock-exchange/,Positive
 2020-12-29 10:25,www.explica.co,https://www.explica.co/ethereum-2-0-already-has-more-than-2-million-eth-blocked-on-its-network/,Positive

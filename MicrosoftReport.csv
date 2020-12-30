@@ -1,4 +1,898 @@
 Date,Website,Article_Link,Predicted_Sentiment
+2020-12-30 11:51,factly.in,https://factly.in/the-posts-claiming-microsoft-has-acquired-all-divisions-of-sony-are-false/,Slightly Positive
+2020-12-30 11:24,www.tomsguide.com,https://www.tomsguide.com/uk/news/the-cheapest-microsoft-surface-pro-8-could-get-a-crucial-upgrade,Positive
+2020-12-30 11:09,www.pocket-lint.com,https://www.pocket-lint.com/laptops/news/microsoft/155135-microsoft-surface-pro-8-may-have-8gb-of-ram-minimum,Slightly Positive
+2020-12-30 11:09,betanews.com,https://betanews.com/2020/12/30/microsoft-releases-powertoys-v0-29/,Slightly Positive
+2020-12-30 08:09,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:09,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 07:09,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:09,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 11:24,www.tomsguide.com,https://www.tomsguide.com/news/the-cheapest-microsoft-surface-pro-8-could-get-a-crucial-upgrade,Positive
+2020-12-30 10:54,betanews.com,https://betanews.com/2020/12/30/microsoft-releases-powertoys-v0-29/,Slightly Positive
+2020-12-30 07:54,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 06:54,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:54,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 04:54,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-30 10:39,betanews.com,https://betanews.com/2020/12/30/microsoft-releases-powertoys-v0-29/,Slightly Positive
+2020-12-30 07:39,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:39,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:39,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:39,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:39,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 10:24,betanews.com,https://betanews.com/2020/12/30/microsoft-releases-powertoys-v0-29/,Slightly Positive
+2020-12-30 08:24,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:24,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 07:24,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:24,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:24,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:24,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 08:09,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:09,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 07:09,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:09,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:09,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 02:09,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-30 07:54,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 06:54,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:54,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:54,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:54,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:54,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 07:39,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:39,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:39,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 04:39,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:39,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:39,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:39,www.everyeye.it,https://www.everyeye.it/notizie/microsoft-acquisisce-sony-rumor-assurdo-largo-spagna-490185.html,Slightly Positive
+2020-12-30 08:24,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:24,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 05:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:24,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:24,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:24,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:24,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 23:24,www.everyeye.it,https://www.everyeye.it/notizie/microsoft-acquisisce-sony-rumor-assurdo-largo-spagna-490185.html,Slightly Positive
+2020-12-30 08:09,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:09,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 05:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:09,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:09,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:09,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 07:54,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 06:54,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:54,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:54,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:54,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-30 07:39,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:39,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:39,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 04:39,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:39,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 08:24,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:24,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 07:24,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:24,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:24,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:24,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 01:24,www.techradar.com,https://www.techradar.com/sg/news/was-2020-actually-the-year-of-microsoft-teams-not-zoom,Positive
+2020-12-30 08:09,www.onmsft.com,https://www.onmsft.com/news/microsoft-made-an-official-xbox-game-pass-soundtrack-and-its-wack,Positive
+2020-12-30 07:09,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:09,www.gizbot.com,https://www.gizbot.com/news/did-microsoft-acquire-sony-or-was-it-fake-news-071794.html,Neutral
+2020-12-30 05:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:09,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:09,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:09,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-30 05:54,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:54,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:54,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:54,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 05:39,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:39,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:39,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:39,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 07:24,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:24,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:24,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:24,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:24,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 07:09,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:09,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 04:09,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 02:09,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:09,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:09,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 23:09,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 23:09,www.techradar.com,https://www.techradar.com/sg/news/microsoft-surface-pro-8-may-sport-a-minimum-8gb-of-ram,Slightly Positive
+2020-12-30 06:54,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:54,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:54,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:54,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:54,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:54,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-30 06:43,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:39,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 05:39,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:39,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:39,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:39,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-30 06:43,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:35,trak.in,https://trak.in/tags/business/2020/12/30/is-microsoft-buying-sony-for-rs-10000-crore-here-is-the-truth-about-this-shocking-news/,Neutral
+2020-12-30 06:24,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:24,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:24,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:24,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:24,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-30 06:43,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 06:09,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 04:09,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 02:09,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:09,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:09,www.androidauthority.com,https://www.androidauthority.com/most-anticipated-phones-2021-1188776/,Slightly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 06:43,www.livemint.com,https://www.livemint.com/companies/news/reports-of-microsoft-acquiring-sony-corp-turn-out-to-be-fake-11609304777102.html,Slightly Positive
+2020-12-30 05:54,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:54,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:54,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 05:39,www.gizbot.com,https://www.gizbot.com/news/did-microsoft-acquire-sony-or-was-it-fake-news-071794.html,Neutral
+2020-12-30 05:39,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:39,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:39,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 05:31,www.gizbot.com,https://www.gizbot.com/news/did-microsoft-acquire-sony-or-was-it-fake-news-071794.html,Neutral
+2020-12-30 05:27,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:24,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:24,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 05:31,www.gizbot.com,https://www.gizbot.com/news/did-microsoft-acquire-sony-or-was-it-fake-news-071794.html,Neutral
+2020-12-30 05:27,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 05:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:09,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:09,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-30 05:31,www.gizbot.com,https://www.gizbot.com/news/did-microsoft-acquire-sony-or-was-it-fake-news-071794.html,Neutral
+2020-12-30 05:27,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 04:54,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:54,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:54,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-30 05:27,www.thequint.com,https://www.thequint.com/news/webqoof/microsoft-didnt-acquire-sony-viral-post-was-a-prank-fact-check,Positive
+2020-12-30 04:39,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:39,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:39,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-30 04:24,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 04:24,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 02:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:24,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:24,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 04:09,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 02:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:09,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:09,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 03:54,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:54,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:54,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 03:39,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:39,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:39,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:39,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 03:59,www.bgr.in,https://www.bgr.in/news/reports-of-microsoft-acquiring-sony-are-fake-heres-what-really-happened-930068/,Neutral
+2020-12-30 03:31,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 02:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:24,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:24,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-30 03:31,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 02:09,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:09,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:09,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:09,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 03:31,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:54,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:54,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:54,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 03:31,www.latestly.com,https://www.latestly.com/social-viral/fact-check/microsoft-acquired-sony-for-a-landmark-deal-of-130-billion-heres-the-truth-behind-the-fake-news-going-viral-on-social-media-2237331.html,Slightly Negative
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:39,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:39,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:39,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-30 01:24,www.coastlive.com.au,https://www.coastlive.com.au/win/summer-code-win-a-microsoft-surface-pro-7/,Slightly Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:24,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:24,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 21:24,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:09,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:09,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 21:09,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 21:09,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-29 20:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-30 01:54,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:54,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:54,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 20:54,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:54,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:39,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:39,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 20:39,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:24,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:24,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 21:24,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-29 20:24,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:09,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:09,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 21:09,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-29 20:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:54,www.techradar.com,https://www.techradar.com/in/news/was-2020-actually-the-year-of-microsoft-teams-not-zoom,Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:54,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:54,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 20:54,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-30 00:39,www.techradar.com,https://www.techradar.com/in/news/was-2020-actually-the-year-of-microsoft-teams-not-zoom,Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:39,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:39,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 20:39,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-29 20:39,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-30 00:24,www.techradar.com,https://www.techradar.com/in/news/was-2020-actually-the-year-of-microsoft-teams-not-zoom,Positive
+2020-12-30 00:24,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 23:24,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-29 23:24,news.thewindowsclub.com,https://news.thewindowsclub.com/microsoft-365-defender-to-protect-customers-against-solorigate-attack-104663/,Slightly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:24,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 21:24,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-30 00:32,www.techradar.com,https://www.techradar.com/sg/news/was-2020-actually-the-year-of-microsoft-teams-not-zoom,Positive
+2020-12-30 00:09,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Neutral
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 22:09,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 21:09,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-29 20:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-30 00:32,www.techradar.com,https://www.techradar.com/sg/news/was-2020-actually-the-year-of-microsoft-teams-not-zoom,Positive
+2020-12-29 23:54,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:54,multiplayer.it,https://multiplayer.it/notizie/microsoft-compra-sony-130-miliardi-dollari-inocentada.html,Slightly Negative
+2020-12-29 20:54,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-29 20:54,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-30 00:32,www.techradar.com,https://www.techradar.com/sg/news/was-2020-actually-the-year-of-microsoft-teams-not-zoom,Positive
+2020-12-29 23:39,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 20:39,www.thestreet.com,https://www.thestreet.com/investing/hedge-fund-investor-third-point-pushes-intel-to-reshape-business-goals,Neutral
+2020-12-29 20:39,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:39,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 23:33,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Neutral
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 20:24,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:24,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:24,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:24,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 23:33,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Strongly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:09,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:09,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 20:09,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 23:33,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Neutral
+2020-12-29 22:54,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 20:54,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:54,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 19:54,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:54,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 23:33,finance.yahoo.com,https://finance.yahoo.com/news/microsoft-msft-dips-more-broader-224510234.html,Neutral
+2020-12-29 22:39,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:39,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:39,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:39,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:39,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:39,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:39,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 22:24,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:24,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:24,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:24,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:24,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:24,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 19:24,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 22:09,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 22:09,mspoweruser.com,https://mspoweruser.com/microsoft-powertoys-v0-29/,Slightly Positive
+2020-12-29 22:09,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:09,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:09,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:09,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:09,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 22:00,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 20:54,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:54,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 19:54,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:54,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 19:54,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:54,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 22:00,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:48,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:39,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:39,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:39,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:39,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:39,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 18:39,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 18:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 22:13,www.techradar.com,https://www.techradar.com/nz/news/microsoft-surface-pro-8-may-sport-a-minimum-8gb-of-ram,Slightly Positive
+2020-12-29 22:00,www.geekwire.com,https://www.geekwire.com/2020/dept-justice-credits-microsoft-identifying-tech-support-fraud-scheme-targeted-seniors/,Negative
+2020-12-29 21:48,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 21:24,seekingalpha.com,https://seekingalpha.com/article/4396649-microsoft-why-is-still-largest-position-after-240-gain,Neutral
+2020-12-29 20:24,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:24,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:24,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:24,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 19:24,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 21:33,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 20:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:09,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:09,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:09,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 19:09,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 19:09,mspoweruser.com,https://mspoweruser.com/microsoft-microled-display-system-hololens/,Positive
+2020-12-29 18:09,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 18:09,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 21:33,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 19:54,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:54,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 19:54,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 18:54,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 18:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 18:54,www.techradar.com,https://www.techradar.com/news/detecting-compromised-microsoft-365-accounts-is-about-to-become-much-easier,Slightly Positive
+2020-12-29 18:54,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:54,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 16:54,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 21:33,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-falls-tuesday-underperforms-market-01609277442-d6aaad0a3c3f,Slightly Positive
+2020-12-29 20:39,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:39,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 19:39,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 18:39,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 18:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 18:39,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:39,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:39,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:39,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 20:24,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:24,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:24,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 18:24,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 18:24,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:24,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:24,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:24,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:24,mspoweruser.com,https://mspoweruser.com/no-microsoft-is-not-acquiring-sony-for-130-billion/,Slightly Negative
+2020-12-29 20:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 20:09,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:09,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:09,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 19:09,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 18:09,www.techradar.com,https://www.techradar.com/news/detecting-compromised-microsoft-365-accounts-is-about-to-become-much-easier,Slightly Positive
+2020-12-29 18:09,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 18:09,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:09,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:09,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 19:54,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:54,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 18:54,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 18:54,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 18:54,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:54,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 16:54,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:54,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:54,mspoweruser.com,https://mspoweruser.com/no-microsoft-is-not-acquiring-sony-for-130-billion/,Slightly Negative
+2020-12-29 19:48,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:39,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:39,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 18:39,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 18:39,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 18:39,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:39,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:39,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:39,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 20:08,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 19:24,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 19:24,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:24,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 19:24,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 18:24,twinfinite.net,https://twinfinite.net/2020/12/microsoft-flight-simulator-easter-island/,Slightly Positive
+2020-12-29 18:24,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:24,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:24,www.businessinsider.com,https://www.businessinsider.com/microsoft-compensation-bonus-trust-integrity-2020-12,Positive
+2020-12-29 17:24,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 19:19,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 19:09,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:09,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 19:09,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/security/microsoft-solarwinds-hackers-goal-was-the-victims-cloud-data/,Neutral
+2020-12-29 19:09,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 18:09,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 18:09,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:09,www.businessinsider.com,https://www.businessinsider.com/microsoft-compensation-bonus-trust-integrity-2020-12,Positive
+2020-12-29 17:09,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:09,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 19:48,www.pcmag.com,https://www.pcmag.com/news/living-with-a-microsoft-surface-pro-7,Positive
+2020-12-29 19:19,www.msspalert.com,https://www.msspalert.com/cybersecurity-news/vulndb-report-microsoft-top-vendor-by-confirmed-vulnerabilities/,Neutral
+2020-12-29 19:05,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:03,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 18:54,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:54,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:54,www.businessinsider.com,https://www.businessinsider.com/microsoft-compensation-bonus-trust-integrity-2020-12,Positive
+2020-12-29 16:54,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:54,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 19:05,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:03,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 18:39,www.androidpolice.com,https://www.androidpolice.com/2020/12/29/get-the-first-gen-microsoft-surface-headphones-for-150-100-off/,Positive
+2020-12-29 18:39,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:39,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:39,www.businessinsider.com,https://www.businessinsider.com/microsoft-compensation-bonus-trust-integrity-2020-12,Positive
+2020-12-29 17:39,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:39,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 19:05,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 19:03,www.gamesradar.com,https://www.gamesradar.com/microsoft-is-now-matching-your-microsoft-rewards-covid-19-donations-until-the-end-of-the-year/,Positive
+2020-12-29 18:24,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:24,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:24,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:24,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 15:24,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 15:24,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 19:05,www.gzeromedia.com,https://www.gzeromedia.com/get-the-latest-from-microsoft-on-the-most-pressing-policy-issues-122920,Strongly Positive
+2020-12-29 18:09,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 18:09,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:09,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:09,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:09,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 15:09,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 15:09,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 18:02,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 16:54,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:54,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 15:54,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 14:54,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 14:54,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:54,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 13:54,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 18:02,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:39,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:39,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:39,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 15:39,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 14:39,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:39,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 14:39,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 18:02,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:24,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:24,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:24,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 15:24,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 15:24,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 14:24,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:24,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 18:02,www.techradar.com,https://www.techradar.com/news/detecting-compromised-microsoft-365-accounts-is-about-to-become-much-easier,Slightly Positive
+2020-12-29 18:02,www.india.com,https://www.india.com/technology/fact-check-has-microsoft-acquired-sony-its-playstation-unit-for-usd130-billion-heres-the-truth-4297781/,Slightly Positive
+2020-12-29 17:22,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:09,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 17:09,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:09,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 15:09,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:09,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 17:22,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 16:54,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:54,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 15:54,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 14:54,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 14:54,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 13:54,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:54,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 17:22,www.helensburghadvertiser.co.uk,https://www.helensburghadvertiser.co.uk/news/18975265.eye-millig-richard-tait---microsoft-millionaire-via-starbucks/,Positive
+2020-12-29 17:07,www.businessinsider.com,https://www.businessinsider.com/microsoft-compensation-bonus-trust-integrity-2020-12,Positive
+2020-12-29 16:43,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:41,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:39,mspoweruser.com,https://mspoweruser.com/no-microsoft-is-not-acquiring-sony-for-130-billion/,Slightly Negative
+2020-12-29 15:39,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 14:39,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:39,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 16:43,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:41,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:24,mspoweruser.com,https://mspoweruser.com/no-microsoft-is-not-acquiring-sony-for-130-billion/,Slightly Negative
+2020-12-29 15:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 14:24,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:24,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 14:24,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 14:24,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 11:24,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 16:43,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:41,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:09,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 15:09,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:09,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 14:09,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 14:09,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:09,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 16:43,www.boomlive.in,https://www.boomlive.in/fake-news/microsoft-sony-acquisition-130-billion-fake-news-11336,Positive
+2020-12-29 16:41,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 15:54,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 14:54,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 13:54,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:54,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:54,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:54,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:54,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 15:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-tests-minor-tweaks-for-windows-10-start-menu-registry-editor/,Positive
+2020-12-29 14:39,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 14:39,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 14:39,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:39,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:39,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:39,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 09:39,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:39,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 06:39,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 15:24,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 14:24,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:24,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 14:24,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 14:24,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:24,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:24,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:24,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 11:24,edtimes.in,https://edtimes.in/microsoft-hired-guy-named-mackenzie-book-to-mock-apple-laptops/,Slightly Positive
+2020-12-29 10:24,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 16:01,www.techradar.com,https://www.techradar.com/news/xbox-2020-how-xbox-series-x-and-game-pass-could-brighten-microsofts-future,Positive
+2020-12-29 15:16,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:09,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 15:09,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:09,www.windowscentral.com,https://www.windowscentral.com/3-things-playstation-5-did-better-xbox-2020,Positive
+2020-12-29 14:09,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 14:09,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:09,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 12:09,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:09,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 15:27,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/microsoft/windows-10-cloud-pc-what-is-known-about-microsofts-new-service/,Slightly Positive
+2020-12-29 15:04,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 14:54,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 13:54,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:54,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:54,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:54,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:54,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 09:54,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:54,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 15:27,www.bleepingcomputer.com,https://www.bleepingcomputer.com/news/microsoft/windows-10-cloud-pc-what-is-known-about-microsofts-new-service/,Slightly Positive
+2020-12-29 15:16,tech.hindustantimes.com,https://tech.hindustantimes.com/tech/news/no-microsoft-did-not-acquire-sony-71609254659016.html,Neutral
+2020-12-29 15:04,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 14:39,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:39,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 14:39,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:39,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:39,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:39,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 10:39,windowsreport.com,https://windowsreport.com/s4u-password-bug-fix/,Neutral
+2020-12-29 15:04,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 14:24,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:24,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:24,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:24,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:24,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:24,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 11:24,windowsreport.com,https://windowsreport.com/s4u-password-bug-fix/,Neutral
+2020-12-29 10:24,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:24,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 14:19,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 14:12,www.onmsft.com,https://www.onmsft.com/news/iot-enthusiasts-can-now-create-their-own-mute-button-for-microsoft-teams,Positive
+2020-12-29 14:09,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 14:09,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:09,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 12:09,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:09,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 10:09,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:09,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:09,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 13:54,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:54,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:54,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:54,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:54,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 09:54,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:54,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:54,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 07:54,www.onmsft.com,https://www.onmsft.com/news/microsoft-launcher-updates-with-several-improvements-for-surface-duo-owners,Slightly Positive
+2020-12-29 07:54,www.onmsft.com,https://www.onmsft.com/news/microsofts-xbox-one-smartglass-app-is-reinstalling-itself-on-windows-10-computers,Neutral
+2020-12-29 14:19,www.freepressjournal.in,https://www.freepressjournal.in/technology/fpj-fact-check-did-microsoft-really-buy-out-sony-including-its-playstation-division-for-130-billion,Neutral
+2020-12-29 13:53,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:39,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:39,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:39,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:39,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 09:39,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:39,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:39,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 07:39,www.onmsft.com,https://www.onmsft.com/news/microsoft-launcher-updates-with-several-improvements-for-surface-duo-owners,Slightly Positive
+2020-12-29 13:53,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:24,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:24,www.ibtimes.co.in,https://www.ibtimes.co.in/fact-check-no-microsoft-did-not-acquire-sony-130-billion-truth-here-831624,Slightly Positive
+2020-12-29 11:24,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:24,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 10:24,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:24,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:24,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 07:24,www.onmsft.com,https://www.onmsft.com/news/microsoft-launcher-updates-with-several-improvements-for-surface-duo-owners,Slightly Positive
+2020-12-29 07:24,www.onmsft.com,https://www.onmsft.com/news/microsofts-xbox-one-smartglass-app-is-reinstalling-itself-on-windows-10-computers,Neutral
+2020-12-29 13:53,www.computerworld.com,https://www.computerworld.com/article/3602231/7-useful-microsoft-word-tips-for-mac-users.html,Slightly Positive
+2020-12-29 13:24,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 12:09,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:09,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:09,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:09,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:09,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 13:24,9to5toys.com,https://9to5toys.com/2020/12/29/microsoft-surface-headphones-discount/,Positive
+2020-12-29 11:54,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:54,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:54,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:54,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:54,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-29 11:39,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:39,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:39,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:39,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:39,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-29 11:24,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:24,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:24,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:24,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:24,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-29 12:09,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:09,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:09,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:09,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:09,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-29 11:54,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:54,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:54,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:54,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:54,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-29 11:39,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:39,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 09:39,www.ghacks.net,https://www.ghacks.net/2020/12/29/microsoft-has-a-fix-for-windows-10s-password-saving-issue/,Slightly Positive
+2020-12-29 08:39,mspoweruser.com,https://mspoweruser.com/how-to-make-a-microsoft-teams-mute-button/,Positive
+2020-12-29 08:39,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:39,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 05:39,trak.in,https://trak.in/tags/business/2020/12/29/open-windows-apps-files-using-voice-command-voice-launcher-being-tested-by-microsoft/,Slightly Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 11:24,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:24,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:24,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:24,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 05:24,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:24,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:24,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:24,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:24,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:24,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-29 11:10,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:09,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:09,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 06:09,aithority.com,https://aithority.com/containers/microsofts-modular-ai-journey-at-its-global-demand-center/,Positive
+2020-12-29 05:09,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 04:09,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:09,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-29 00:09,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 23:09,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 23:09,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-29 11:10,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:03,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:54,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:54,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:54,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:54,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:54,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:54,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:54,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
+2020-12-28 21:54,www.marketwatch.com,https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-market-on-strong-trading-day-01609191057-db632975006b,Positive
+2020-12-29 11:10,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
+2020-12-29 11:03,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
+2020-12-29 08:39,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive
+2020-12-29 04:39,www.finews.asia,https://www.finews.asia/finance/33485-microsoft-connie-leung-innovation-can-no-longer-be-delayed,Positive
+2020-12-29 03:39,www.notebookcheck.net,https://www.notebookcheck.net/Base-variant-of-the-Microsoft-Surface-Pro-8-to-come-with-Intel-Core-i3-processor-and-welcome-RAM-bump.512388.0.html,Positive
+2020-12-29 00:39,bgr.com,https://bgr.com/2020/12/28/windows-10-update-voice-launcher-beta-october-2021/,Positive
+2020-12-28 23:39,blogs.microsoft.com,https://blogs.microsoft.com/on-the-issues/2020/12/28/fcc-congress-rural-broadband-digital-divide/,Positive
+2020-12-28 22:39,www.pcinvasion.com,https://www.pcinvasion.com/microsoft-flight-simulator-too-ambitious/,Positive
+2020-12-28 22:39,www.windowslatest.com,https://www.windowslatest.com/2020/12/29/microsoft-is-finally-fixing-the-password-bug-in-windows-10/,Slightly Negative
 2020-12-29 11:10,www.pocket-lint.com,https://www.pocket-lint.com/apps/news/microsoft/155127-microsoft-is-making-it-easier-navigate-windows-10-with-voice-launcher,Slightly Positive
 2020-12-29 11:03,voicebot.ai,https://voicebot.ai/2020/12/29/microsoft-is-testing-voice-controls-for-windows-10-after-ditching-cortana/,Positive
 2020-12-29 08:24,www.indiawest.com,https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html,Positive

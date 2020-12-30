@@ -1,4 +1,859 @@
 Date,Website,Article_Link,Predicted_Sentiment
+2020-12-30 11:50,www.investing.com,https://www.investing.com/news/economy/mcconnell-defies-trump-uk-oks-astra-vaccine-bitcoin-ath--whats-up-in-markets-2377292,Slightly Positive
+2020-12-30 11:34,www.cnbctv18.com,https://www.cnbctv18.com/finance/bitcoin-jumps-to-record-28600-amid-heightened-interest-from-bigger-investors-7858801.htm,Positive
+2020-12-30 11:27,www.timesnownews.com,https://www.timesnownews.com/business-economy/personal-finance/planning-investing/article/bitcoin-brouhaha-or-gold-rush-its-the-yellow-metal-for-samir-arora/700968,Positive
+2020-12-30 11:10,www.theguardian.com,https://www.theguardian.com/business/live/2020/dec/30/bitcoin-record-high-us-dollar-slides-ftse-pound-covid-19-vaccine-business-live,Slightly Positive
+2020-12-30 11:10,www.theguardian.com,https://www.theguardian.com/technology/2020/dec/30/bitcoin-surges-record-28500-quadrupling-value-dollar,Slightly Positive
+2020-12-30 11:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:10,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:10,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 10:10,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 11:50,www.investing.com,https://www.investing.com/news/economy/mcconnell-defies-trump-uk-oks-astra-vaccine-bitcoin-ath--whats-up-in-markets-2377292,Slightly Positive
+2020-12-30 11:40,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/bitcoin-price-usd-28599-99-asia-trading-cryptocurrency-new-record-biggest-monthly-gain-2345640,Positive
+2020-12-30 11:34,www.cnbctv18.com,https://www.cnbctv18.com/finance/bitcoin-jumps-to-record-28600-amid-heightened-interest-from-bigger-investors-7858801.htm,Positive
+2020-12-30 11:27,www.timesnownews.com,https://www.timesnownews.com/business-economy/personal-finance/planning-investing/article/bitcoin-brouhaha-or-gold-rush-its-the-yellow-metal-for-samir-arora/700968,Positive
+2020-12-30 11:04,www.theguardian.com,https://www.theguardian.com/business/live/2020/dec/30/bitcoin-record-high-us-dollar-slides-ftse-pound-covid-19-vaccine-business-live,Slightly Positive
+2020-12-30 11:01,www.theguardian.com,https://www.theguardian.com/technology/2020/dec/30/bitcoin-surges-record-28500-quadrupling-value-dollar,Slightly Positive
+2020-12-30 10:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:55,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:55,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 11:27,www.timesnownews.com,https://www.timesnownews.com/business-economy/personal-finance/planning-investing/article/bitcoin-brouhaha-or-gold-rush-its-the-yellow-metal-for-samir-arora/700968,Positive
+2020-12-30 11:04,www.theguardian.com,https://www.theguardian.com/business/live/2020/dec/30/bitcoin-record-high-us-dollar-slides-ftse-pound-covid-19-vaccine-business-live,Slightly Positive
+2020-12-30 11:01,www.theguardian.com,https://www.theguardian.com/technology/2020/dec/30/bitcoin-surges-record-28500-quadrupling-value-dollar,Slightly Positive
+2020-12-30 10:40,money.yahoo.com,https://money.yahoo.com/bitcoin-hits-record-high-as-it-soars-past-28500-us-dollar-095739122.html,Strongly Positive
+2020-12-30 10:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-hits-another-all-time-high-xrp-totally-devastated-202012301017,Slightly Positive
+2020-12-30 10:40,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:40,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 10:40,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 10:40,www.businesstoday.in,https://www.businesstoday.in/current/corporate/bitcoin-rally-continues-digital-currency-hits-another-high-28600/story/426480.html,Positive
+2020-12-30 11:02,www.theguardian.com,https://www.theguardian.com/technology/2020/dec/30/bitcoin-surges-record-28500-quadrupling-value-dollar,Slightly Positive
+2020-12-30 10:50,kfgo.com,https://kfgo.com/2020/12/30/bitcoin-hits-record-28600-as-2020-rally-powers-on/,Positive
+2020-12-30 10:33,money.yahoo.com,https://money.yahoo.com/bitcoin-hits-record-high-as-it-soars-past-28500-us-dollar-095739122.html,Strongly Positive
+2020-12-30 10:25,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:25,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 10:25,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 10:25,www.businesstoday.in,https://www.businesstoday.in/current/corporate/bitcoin-rally-continues-digital-currency-hits-another-high-28600/story/426480.html,Positive
+2020-12-30 10:25,www.fxempire.com,https://www.fxempire.com/forecasts/article/bitcoin-uptrend-shows-no-signs-of-stopping-691389,Neutral
+2020-12-30 11:01,www.theguardian.com,https://www.theguardian.com/technology/2020/dec/30/bitcoin-surges-record-28500-quadrupling-value-dollar,Slightly Positive
+2020-12-30 10:10,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:10,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 10:10,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 10:10,www.businesstoday.in,https://www.businesstoday.in/current/corporate/bitcoin-rally-continues-digital-currency-hits-another-high-28600/story/426480.html,Positive
+2020-12-30 10:10,www.fxempire.com,https://www.fxempire.com/forecasts/article/bitcoin-uptrend-shows-no-signs-of-stopping-691389,Slightly Positive
+2020-12-30 10:10,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 09:10,finance.yahoo.com,https://finance.yahoo.com/news/bitcoin-sets-time-high-above-082218874.html,Strongly Positive
+2020-12-30 10:54,www.devdiscourse.com,https://www.devdiscourse.com/article/business/1388235-bitcoin-jumps-to-record-28600-as-2020-rally-reaches-new-heights,Positive
+2020-12-30 10:50,kfgo.com,https://kfgo.com/2020/12/30/bitcoin-hits-record-28600-as-2020-rally-powers-on/,Positive
+2020-12-30 10:08,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:05,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 09:55,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 09:55,www.businesstoday.in,https://www.businesstoday.in/current/corporate/bitcoin-rally-continues-digital-currency-hits-another-high-28600/story/426480.html,Positive
+2020-12-30 09:55,www.fxempire.com,https://www.fxempire.com/forecasts/article/bitcoin-uptrend-shows-no-signs-of-stopping-691389,Slightly Positive
+2020-12-30 09:55,coingape.com,https://coingape.com/bitcoin-bulls-record-another-new-ath-after-a-minor-price-correction-asia-traders-back-in-play/,Positive
+2020-12-30 09:55,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 10:08,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:05,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 09:54,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 09:45,www.businesstoday.in,https://www.businesstoday.in/current/corporate/bitcoin-rally-continues-digital-currency-hits-another-high-28600/story/426480.html,Positive
+2020-12-30 09:40,www.fxempire.com,https://www.fxempire.com/forecasts/article/bitcoin-uptrend-shows-no-signs-of-stopping-691389,Slightly Positive
+2020-12-30 09:40,coingape.com,https://coingape.com/bitcoin-bulls-record-another-new-ath-after-a-minor-price-correction-asia-traders-back-in-play/,Positive
+2020-12-30 09:40,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 09:40,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 09:40,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 10:08,www.channelnewsasia.com,https://www.channelnewsasia.com/news/business/bitcoin-hits-record-us-28-600-as-2020-rally-powers-on-13866354,Positive
+2020-12-30 10:05,coingeek.com,https://coingeek.com/run-on-bitcoin-enters-public-beta/,Positive
+2020-12-30 09:54,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 09:45,www.businesstoday.in,https://www.businesstoday.in/current/corporate/bitcoin-rally-continues-digital-currency-hits-another-high-28600/story/426480.html,Positive
+2020-12-30 09:37,www.fxempire.com,https://www.fxempire.com/forecasts/article/bitcoin-uptrend-shows-no-signs-of-stopping-691389,Slightly Positive
+2020-12-30 09:29,coingape.com,https://coingape.com/bitcoin-bulls-record-another-new-ath-after-a-minor-price-correction-asia-traders-back-in-play/,Positive
+2020-12-30 09:25,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 09:25,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 09:25,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 09:57,www.yahoo.com,https://www.yahoo.com/now/bitcoin-hits-record-high-as-it-soars-past-28500-us-dollar-095739122.html,Strongly Positive
+2020-12-30 09:54,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-30 09:45,www.businesstoday.in,https://www.businesstoday.in/current/corporate/bitcoin-rally-continues-digital-currency-hits-another-high-28600/story/426480.html,Positive
+2020-12-30 09:37,www.fxempire.com,https://www.fxempire.com/forecasts/article/bitcoin-uptrend-shows-no-signs-of-stopping-691389,Slightly Positive
+2020-12-30 09:12,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 09:10,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 09:10,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 09:10,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-30/s-african-bitcoin-trader-under-liquidation-business-day-says,Strongly Positive
+2020-12-30 09:44,in.reuters.com,https://in.reuters.com/article/uk-crypto-currency/bitcoin-hits-record-28600-as-2020-rally-powers-on-idUKKBN2940VO,Positive
+2020-12-30 09:37,www.fxempire.com,https://www.fxempire.com/forecasts/article/bitcoin-uptrend-shows-no-signs-of-stopping-691389,Slightly Positive
+2020-12-30 09:12,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 08:55,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 08:55,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 08:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Positive
+2020-12-30 08:55,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-30/s-african-bitcoin-trader-under-liquidation-business-day-says,Strongly Positive
+2020-12-30 08:55,www.theguardian.com,https://www.theguardian.com/business/live/2020/dec/30/bitcoin-record-high-us-dollar-slides-ftse-pound-covid-19-vaccine-business-live,Slightly Positive
+2020-12-30 09:12,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 08:44,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 08:42,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 08:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Positive
+2020-12-30 08:40,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-30/s-african-bitcoin-trader-under-liquidation-business-day-says,Strongly Positive
+2020-12-30 08:40,www.theguardian.com,https://www.theguardian.com/business/live/2020/dec/30/bitcoin-record-high-us-dollar-slides-ftse-pound-covid-19-vaccine-business-live,Slightly Positive
+2020-12-30 08:40,beincrypto.com,https://beincrypto.com/bitcoin-btc-locks-in-new-all-time-high-before-2020-close/,Slightly Positive
+2020-12-30 09:12,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-new-record-set-for-biggest-monthly-gain-since-2019/articleshow/80025532.cms,Slightly Positive
+2020-12-30 08:44,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 08:42,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 08:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Positive
+2020-12-30 08:25,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-30/s-african-bitcoin-trader-under-liquidation-business-day-says,Strongly Positive
+2020-12-30 08:25,beincrypto.com,https://beincrypto.com/bitcoin-btc-locks-in-new-all-time-high-before-2020-close/,Slightly Positive
+2020-12-30 08:25,www.sfweekly.com,https://www.sfweekly.com/sponsored/bitcoin-era-review-is-it-really-a-scam/,Positive
+2020-12-30 08:44,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 08:23,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Positive
+2020-12-30 08:10,www.sfweekly.com,https://www.sfweekly.com/sponsored/bitcoin-era-review-is-it-really-a-scam/,Positive
+2020-12-30 08:10,ambcrypto.com,https://ambcrypto.com/whats-driving-the-current-bitcoin-bull-run/,Positive
+2020-12-30 08:10,www.businesstimes.com.sg,https://www.businesstimes.com.sg/banking-finance/bitcoin-hits-record-us28600-as-2020-rally-powers-on,Positive
+2020-12-30 08:10,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 08:10,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-record-28600-as-2020-rally-powers-on/articleshow/80024227.cms,Strongly Positive
+2020-12-30 08:10,www.devdiscourse.com,https://www.devdiscourse.com/article/science-environment/1387970-bitcoin-hits-record-2859999-as-2020-rally-powers-on,Slightly Positive
+2020-12-30 08:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-primed-for-a-major-price-movement-as-second-us-stimulus-checks-go-out-202012300720,Slightly Positive
+2020-12-30 08:44,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/scaramuccis-skybridge-capital-invested-182-million-in-bitcoin/,Slightly Positive
+2020-12-30 08:23,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Positive
+2020-12-30 08:03,www.sfweekly.com,https://www.sfweekly.com/sponsored/bitcoin-era-review-is-it-really-a-scam/,Positive
+2020-12-30 08:00,ambcrypto.com,https://ambcrypto.com/whats-driving-the-current-bitcoin-bull-run/,Positive
+2020-12-30 08:00,www.businesstimes.com.sg,https://www.businesstimes.com.sg/banking-finance/bitcoin-hits-record-us28600-as-2020-rally-powers-on,Positive
+2020-12-30 07:55,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 07:55,economictimes.indiatimes.com,https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-hits-record-28600-as-2020-rally-powers-on/articleshow/80024227.cms,Strongly Positive
+2020-12-30 07:55,www.devdiscourse.com,https://www.devdiscourse.com/article/science-environment/1387970-bitcoin-hits-record-2859999-as-2020-rally-powers-on,Positive
+2020-12-30 07:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-primed-for-a-major-price-movement-as-second-us-stimulus-checks-go-out-202012300720,Slightly Positive
+2020-12-30 07:55,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/nfl-player-receives-6-5-million-salary-in-bitcoin/,Positive
+2020-12-30 08:03,www.sfweekly.com,https://www.sfweekly.com/sponsored/bitcoin-era-review-is-it-really-a-scam/,Positive
+2020-12-30 08:00,ambcrypto.com,https://ambcrypto.com/whats-driving-the-current-bitcoin-bull-run/,Positive
+2020-12-30 08:00,www.businesstimes.com.sg,https://www.businesstimes.com.sg/banking-finance/bitcoin-hits-record-us28600-as-2020-rally-powers-on,Positive
+2020-12-30 07:53,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 07:45,www.devdiscourse.com,https://www.devdiscourse.com/article/science-environment/1387970-bitcoin-hits-record-2859999-as-2020-rally-powers-on,Negative
+2020-12-30 07:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-primed-for-a-major-price-movement-as-second-us-stimulus-checks-go-out-202012300720,Slightly Positive
+2020-12-30 07:40,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/nfl-player-receives-6-5-million-salary-in-bitcoin/,Positive
+2020-12-30 07:40,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-7-74-up-in-the-last-24-hours/,Slightly Positive
+2020-12-30 06:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:40,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 08:03,www.sfweekly.com,https://www.sfweekly.com/sponsored/bitcoin-era-review-is-it-really-a-scam/,Positive
+2020-12-30 08:00,ambcrypto.com,https://ambcrypto.com/whats-driving-the-current-bitcoin-bull-run/,Positive
+2020-12-30 08:00,www.businesstimes.com.sg,https://www.businesstimes.com.sg/banking-finance/bitcoin-hits-record-us28600-as-2020-rally-powers-on,Positive
+2020-12-30 07:53,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 07:38,www.khaleejtimes.com,https://www.khaleejtimes.com/business/markets/bitcoin-hits-record-28600-as-2020-rally-powers-on,Positive
+2020-12-30 07:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-primed-for-a-major-price-movement-as-second-us-stimulus-checks-go-out-202012300720,Slightly Positive
+2020-12-30 07:25,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/nfl-player-receives-6-5-million-salary-in-bitcoin/,Positive
+2020-12-30 07:25,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-7-74-up-in-the-last-24-hours/,Slightly Positive
+2020-12-30 06:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 08:00,ambcrypto.com,https://ambcrypto.com/whats-driving-the-current-bitcoin-bull-run/,Positive
+2020-12-30 08:00,www.businesstimes.com.sg,https://www.businesstimes.com.sg/banking-finance/bitcoin-hits-record-us28600-as-2020-rally-powers-on,Positive
+2020-12-30 07:53,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 07:38,www.khaleejtimes.com,https://www.khaleejtimes.com/business/markets/bitcoin-hits-record-28600-as-2020-rally-powers-on,Positive
+2020-12-30 07:13,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/nfl-player-receives-6-5-million-salary-in-bitcoin/,Positive
+2020-12-30 07:10,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-7-74-up-in-the-last-24-hours/,Slightly Positive
+2020-12-30 07:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:10,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 06:10,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 06:10,cryptonews.com,https://cryptonews.com/news/bitcoin-returns-above-usd-28k-altcoins-send-bullish-signs-8762.htm,Positive
+2020-12-30 07:53,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 07:45,www.devdiscourse.com,https://www.devdiscourse.com/article/science-environment/1387970-bitcoin-hits-record-2859999-as-2020-rally-powers-on,Positive
+2020-12-30 07:32,www.theedgemarkets.com,https://www.theedgemarkets.com/article/bitcoin-hits-record-us2859999-2020-rally-powers,Positive
+2020-12-30 07:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-7-74-up-in-the-last-24-hours/,Slightly Positive
+2020-12-30 07:00,cointelegraph.com,https://cointelegraph.com/news/bitcoin-price-inches-closer-to-30-000-with-new-all-time-highs,Neutral
+2020-12-30 06:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:55,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 06:55,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 06:55,cryptonews.com,https://cryptonews.com/news/bitcoin-returns-above-usd-28k-altcoins-send-bullish-signs-8762.htm,Positive
+2020-12-30 06:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 07:32,timesofindia.indiatimes.com,https://timesofindia.indiatimes.com/business/international-business/bitcoin-hits-record-28600-as-2020-rally-powers-on/articleshow/80023146.cms,Strongly Positive
+2020-12-30 07:20,www.devdiscourse.com,https://www.devdiscourse.com/article/science-environment/1387970-bitcoin-hits-record-2859999-as-2020-rally-powers-on,Positive
+2020-12-30 07:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-7-74-up-in-the-last-24-hours/,Slightly Positive
+2020-12-30 06:40,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:40,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 06:40,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 06:40,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 06:40,cryptonews.com,https://cryptonews.com/news/bitcoin-returns-above-usd-28k-altcoins-send-bullish-signs-8762.htm,Positive
+2020-12-30 06:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:40,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 07:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-7-74-up-in-the-last-24-hours/,Slightly Positive
+2020-12-30 06:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:25,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 06:25,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 06:25,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 06:25,cryptonews.com,https://cryptonews.com/news/bitcoin-returns-above-usd-28k-altcoins-send-bullish-signs-8762.htm,Positive
+2020-12-30 06:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:25,bitcoinist.com,https://bitcoinist.com/there-is-59-chance-for-bitcoin-to-continue-its-bull-trend-heres-why/,Slightly Positive
+2020-12-30 05:25,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 04:25,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 07:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-7-74-up-in-the-last-24-hours/,Slightly Positive
+2020-12-30 06:21,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:12,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 06:10,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 06:10,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 06:10,cryptonews.com,https://cryptonews.com/news/bitcoin-returns-above-usd-28k-altcoins-send-bullish-signs-8762.htm,Positive
+2020-12-30 06:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:10,bitcoinist.com,https://bitcoinist.com/there-is-59-chance-for-bitcoin-to-continue-its-bull-trend-heres-why/,Slightly Positive
+2020-12-30 05:10,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 05:10,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 06:21,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:12,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 06:07,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 06:07,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 06:01,cryptonews.com,https://cryptonews.com/news/bitcoin-returns-above-usd-28k-altcoins-send-bullish-signs-8762.htm,Positive
+2020-12-30 05:56,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-bitcoin-cash-ethereum-band-protocol-asian-wrap-30-dec-202012300555,Positive
+2020-12-30 05:55,bitcoinist.com,https://bitcoinist.com/there-is-59-chance-for-bitcoin-to-continue-its-bull-trend-heres-why/,Slightly Positive
+2020-12-30 05:55,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 04:55,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 03:55,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 06:21,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:12,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 06:07,news.bitcoin.com,https://news.bitcoin.com/betting-your-coins-online-be-sure-to-askgamblers-first/,Positive
+2020-12-30 06:07,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 06:01,cryptonews.com,https://cryptonews.com/news/bitcoin-returns-above-usd-28k-altcoins-send-bullish-signs-8762.htm,Positive
+2020-12-30 05:40,bitcoinist.com,https://bitcoinist.com/there-is-59-chance-for-bitcoin-to-continue-its-bull-trend-heres-why/,Slightly Positive
+2020-12-30 05:40,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 04:40,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 03:40,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:40,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 06:21,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 06:12,nairametrics.com,https://nairametrics.com/2020/12/30/bitcoin-jumps-high-gains-1600/,Positive
+2020-12-30 06:07,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 05:25,bitcoinist.com,https://bitcoinist.com/there-is-59-chance-for-bitcoin-to-continue-its-bull-trend-heres-why/,Slightly Positive
+2020-12-30 05:25,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 04:25,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 04:25,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:25,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 03:25,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:25,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 06:07,www.messenger-inquirer.com,https://www.messenger-inquirer.com/features/bitcoin-miners-in-nordic-region-get-a-boost-from-cheap-power/article_d95de3fb-ef88-590e-9184-a79224472bc2.html,Strongly Positive
+2020-12-30 05:17,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 05:10,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 05:10,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 04:10,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:10,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 03:10,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:10,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:10,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 05:17,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 05:05,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 04:55,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 03:55,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:55,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:55,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:55,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:55,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:55,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-30 05:17,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 05:05,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 04:40,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 03:40,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:40,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:40,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:40,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:40,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:40,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-30 05:07,bitcoinist.com,https://bitcoinist.com/there-is-59-chance-for-bitcoin-to-continue-its-bull-trend-heres-why/,Slightly Positive
+2020-12-30 05:05,www.investing.com,https://www.investing.com/analysis/what-happens-after-bitcoin-tests-30000-200549188,Slightly Positive
+2020-12-30 04:25,www.wccbcharlotte.com,https://www.wccbcharlotte.com/2020/12/29/edge-russell-okung-first-nfl-player-paid-in-bitcoin/,Slightly Negative
+2020-12-30 04:25,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 04:25,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:25,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 03:25,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 03:25,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:25,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:25,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 04:11,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 04:10,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:10,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 03:10,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:10,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-29 23:10,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-30 01:10,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:10,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 04:11,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 03:55,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:55,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:55,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:55,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-29 22:55,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 01:55,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 21:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-30 00:55,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 04:11,www.wccbcharlotte.com,https://www.wccbcharlotte.com/2020/12/29/edge-russell-okung-first-nfl-player-paid-in-bitcoin/,Slightly Negative
+2020-12-30 04:11,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 03:40,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:40,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:40,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:40,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-29 22:40,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 01:40,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:40,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 04:11,www.wccbcharlotte.com,https://www.wccbcharlotte.com/2020/12/29/edge-russell-okung-first-nfl-player-paid-in-bitcoin/,Slightly Negative
+2020-12-30 04:11,via.news,https://via.news/markets/bitcoin-cash-usd-on-bullish-momentum-6-11-up-in-the-last-12-hours/,Slightly Positive
+2020-12-30 03:32,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:25,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 03:25,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:25,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-29 22:25,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 01:25,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:25,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 03:32,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:10,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 03:10,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:10,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:10,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 23:10,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 01:10,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 01:10,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-30 03:31,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:55,www.coindesk.com,https://www.coindesk.com/skybridge-capital-has-already-invested-182m-in-bitcoin,Slightly Positive
+2020-12-30 02:55,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:55,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:55,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 00:55,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 03:31,news.bitcoin.com,https://news.bitcoin.com/large-bitcoin-futures-gap-causes-temporary-trading-pause-eth-open-interest-hits-all-time-high/,Slightly Positive
+2020-12-30 03:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:40,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:40,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:40,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 00:40,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 22:40,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 23:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 03:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:25,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:25,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:25,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 01:25,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 22:25,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 00:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 00:25,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-30 03:03,via.news,https://via.news/markets/bitcoin-on-bullish-momentum-4-04-up-in-the-last-6-hours/,Slightly Positive
+2020-12-30 02:10,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 02:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 01:10,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:10,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 01:10,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:10,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 00:10,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 02:09,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 01:55,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:55,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 00:55,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 22:55,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 23:55,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-30 02:09,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:41,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 01:40,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:40,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 00:40,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:40,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-29 22:40,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 02:09,asiatimes.com,https://asiatimes.com/2020/12/bitcoin-bull-has-eye-on-the-alts/,Slightly Positive
+2020-12-30 01:41,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-30 01:25,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:25,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 01:25,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-30 00:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 00:25,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-29 23:25,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-30 01:10,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 01:10,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 01:10,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-30 00:10,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 00:10,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-30 00:10,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 23:10,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 23:10,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-30 00:57,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:55,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 00:55,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:55,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-29 23:55,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 22:55,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:55,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-30 00:57,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:51,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 00:40,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:40,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-29 23:40,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 23:40,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:40,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:40,finance.yahoo.com,https://finance.yahoo.com/news/market-wrap-bitcoin-down-26k-212642741.html,Slightly Positive
+2020-12-30 00:57,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:51,asiatimes.com,https://asiatimes.com/2020/12/indian-government-mulls-bitcoin-tax/,Slightly Negative
+2020-12-30 00:32,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-30 00:25,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 00:25,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-29 23:25,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 23:25,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 23:25,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 23:25,finance.yahoo.com,https://finance.yahoo.com/news/market-wrap-bitcoin-down-26k-212642741.html,Slightly Positive
+2020-12-30 00:57,www.weareiowa.com,https://www.weareiowa.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-30 00:31,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-30 00:10,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-30 00:10,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-30 00:10,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 23:10,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 23:10,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 23:10,finance.yahoo.com,https://finance.yahoo.com/news/market-wrap-bitcoin-down-26k-212642741.html,Neutral
+2020-12-29 23:10,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-30 00:31,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:55,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:55,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-29 23:55,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 22:55,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:55,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:55,finance.yahoo.com,https://finance.yahoo.com/news/market-wrap-bitcoin-down-26k-212642741.html,Slightly Positive
+2020-12-29 22:55,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:55,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-30 00:31,news.bitcoin.com,https://news.bitcoin.com/is-defi-coming-to-bitcoin-cash-an-overview-of-detoken-and-the-anyhedge-protocol/,Slightly Positive
+2020-12-29 23:40,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:40,www.fool.com.au,https://www.fool.com.au/2020/12/30/is-the-surging-bitcoin-an-existential-threat-to-asx-gold-miners/,Slightly Positive
+2020-12-29 23:40,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 23:40,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:40,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:40,finance.yahoo.com,https://finance.yahoo.com/news/market-wrap-bitcoin-down-26k-212642741.html,Slightly Positive
+2020-12-29 22:40,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:40,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 23:39,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:25,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 23:25,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 23:25,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 23:25,finance.yahoo.com,https://finance.yahoo.com/news/market-wrap-bitcoin-down-26k-212642741.html,Neutral
+2020-12-29 22:25,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:25,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:25,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-29 22:25,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 23:39,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:19,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 23:10,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 23:10,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 23:10,finance.yahoo.com,https://finance.yahoo.com/news/market-wrap-bitcoin-down-26k-212642741.html,Slightly Positive
+2020-12-29 23:10,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 23:10,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 23:10,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-29 22:10,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 23:39,www.crowdfundinsider.com,https://www.crowdfundinsider.com/2020/12/170735-biggest-security-problem-bitcoin-btc-has-is-its-user-experience-ux-according-to-casa-ceo-nic-neuman/,Slightly Negative
+2020-12-29 23:19,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 22:55,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:55,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:55,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:55,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:55,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-29 22:55,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:55,www.businessinsider.com,https://www.businessinsider.com/personal-finance/bitcoin-credit-and-debit-cards-change-earning-rewards-2020-12,Positive
+2020-12-29 21:55,www.kvue.com,https://www.kvue.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 23:19,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 22:50,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:40,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:40,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:40,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:40,dailyhodl.com,https://dailyhodl.com/2020/12/29/will-incoming-treasury-secretary-janet-yellen-boost-bitcoin-heres-a-look-at-her-past-statements-on-crypto/,Slightly Positive
+2020-12-29 22:40,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-29 22:40,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:40,www.businessinsider.com,https://www.businessinsider.com/personal-finance/bitcoin-credit-and-debit-cards-change-earning-rewards-2020-12,Positive
+2020-12-29 21:40,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 23:19,www.thestreet.com,https://www.thestreet.com/economonitor/financial-markets/devere-boss-i-sold-half-my-bitcoin-holdings-over-christmas,Positive
+2020-12-29 22:50,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:37,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:25,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:25,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:25,dailyhodl.com,https://dailyhodl.com/2020/12/29/will-incoming-treasury-secretary-janet-yellen-boost-bitcoin-heres-a-look-at-her-past-statements-on-crypto/,Slightly Positive
+2020-12-29 22:25,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-29 22:25,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:25,www.businessinsider.com,https://www.businessinsider.com/personal-finance/bitcoin-credit-and-debit-cards-change-earning-rewards-2020-12,Positive
+2020-12-29 22:25,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 22:50,www.kitco.com,https://www.kitco.com/news/2020-12-29/Watch-out-for-this-risk-as-bitcoin-looks-toward-50-000-and-higher-in-2021-analysts.html,Slightly Positive
+2020-12-29 22:36,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:19,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:17,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:15,dailyhodl.com,https://dailyhodl.com/2020/12/29/will-incoming-treasury-secretary-janet-yellen-boost-bitcoin-heres-a-look-at-her-past-statements-on-crypto/,Slightly Positive
+2020-12-29 22:13,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-29 22:10,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:10,www.businessinsider.com,https://www.businessinsider.com/personal-finance/bitcoin-credit-and-debit-cards-change-earning-rewards-2020-12,Positive
+2020-12-29 22:10,ambcrypto.com,https://ambcrypto.com/lessons-in-bitcoin-heres-what-this-billionaire-plans-to-do-with-his-btc/,Slightly Positive
+2020-12-29 22:10,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 22:37,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:19,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:17,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:13,www.cbsnews.com,https://www.cbsnews.com/news/russell-okung-panthers-nfl-salary-bitcoin/,Slightly Positive
+2020-12-29 22:02,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:01,www.businessinsider.com,https://www.businessinsider.com/personal-finance/bitcoin-credit-and-debit-cards-change-earning-rewards-2020-12,Positive
+2020-12-29 22:00,ambcrypto.com,https://ambcrypto.com/lessons-in-bitcoin-heres-what-this-billionaire-plans-to-do-with-his-btc/,Slightly Positive
+2020-12-29 21:55,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 21:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-29 21:55,finance.yahoo.com,https://finance.yahoo.com/video/nfls-okung-becomes-first-player-205319168.html,Strongly Positive
+2020-12-29 22:37,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 22:19,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:17,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:02,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:01,www.businessinsider.com,https://www.businessinsider.com/personal-finance/bitcoin-credit-and-debit-cards-change-earning-rewards-2020-12,Positive
+2020-12-29 21:40,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 21:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-29 21:40,finance.yahoo.com,https://finance.yahoo.com/video/nfls-okung-becomes-first-player-205319168.html,Neutral
+2020-12-29 21:40,finance.yahoo.com,https://finance.yahoo.com/news/skybridge-capital-already-invested-182m-203628963.html,Neutral
+2020-12-29 21:40,www.mediaite.com,https://www.mediaite.com/news/carolina-panthers-player-russell-okung-to-receive-half-his-salary-in-bitcoin/,Slightly Positive
+2020-12-29 22:19,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Positive
+2020-12-29 22:17,sports.yahoo.com,https://sports.yahoo.com/russell-okung-will-have-half-his-13-million-salary-paid-in-bitcoin-154406450.html,Slightly Positive
+2020-12-29 22:02,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 21:50,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 21:35,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-29 21:25,finance.yahoo.com,https://finance.yahoo.com/video/nfls-okung-becomes-first-player-205319168.html,Strongly Positive
+2020-12-29 21:25,finance.yahoo.com,https://finance.yahoo.com/news/skybridge-capital-already-invested-182m-203628963.html,Strongly Positive
+2020-12-29 21:25,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/reviewing-2020s-central-bank-policies,Slightly Positive
+2020-12-29 21:25,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 21:25,www.mediaite.com,https://www.mediaite.com/news/carolina-panthers-player-russell-okung-to-receive-half-his-salary-in-bitcoin/,Slightly Positive
+2020-12-29 22:02,www.blackenterprise.com,https://www.blackenterprise.com/carolina-panthers-russell-okung-becomes-first-nfl-player-to-be-partly-paid-in-bitcoin/,Slightly Positive
+2020-12-29 21:50,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 21:35,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-29 21:16,finance.yahoo.com,https://finance.yahoo.com/video/nfls-okung-becomes-first-player-205319168.html,Strongly Positive
+2020-12-29 21:15,finance.yahoo.com,https://finance.yahoo.com/news/skybridge-capital-already-invested-182m-203628963.html,Strongly Positive
+2020-12-29 21:10,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/reviewing-2020s-central-bank-policies,Slightly Positive
+2020-12-29 21:10,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 21:10,www.mediaite.com,https://www.mediaite.com/news/carolina-panthers-player-russell-okung-to-receive-half-his-salary-in-bitcoin/,Slightly Positive
+2020-12-29 21:10,www.wbtv.com,https://www.wbtv.com/2020/12/29/panthers-russell-okung-becomes-first-nfl-player-be-paid-bitcoin/,Strongly Negative
+2020-12-29 21:10,www.theblockcrypto.com,https://www.theblockcrypto.com/post/89533/anthony-scaramuccis-skybridge-has-invested-182-million-into-bitcoin-according-to-deck,Neutral
+2020-12-29 21:50,www.nasdaq.com,https://www.nasdaq.com/articles/bitcoin-stocks-continued-their-volatile-ride-on-tuesday-2020-12-29,Slightly Positive
+2020-12-29 21:35,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-29 21:15,finance.yahoo.com,https://finance.yahoo.com/news/skybridge-capital-already-invested-182m-203628963.html,Strongly Positive
+2020-12-29 21:02,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/reviewing-2020s-central-bank-policies,Slightly Positive
+2020-12-29 20:55,finance.yahoo.com,https://finance.yahoo.com/video/nfls-okung-becomes-first-player-205319168.html,Strongly Positive
+2020-12-29 20:55,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 20:55,deadspin.com,https://deadspin.com/russell-okung-becomes-first-nfl-player-to-get-paid-in-b-1845963991,Neutral
+2020-12-29 20:55,www.wbtv.com,https://www.wbtv.com/2020/12/29/panthers-russell-okung-becomes-first-nfl-player-be-paid-bitcoin/,Strongly Negative
+2020-12-29 20:55,www.theblockcrypto.com,https://www.theblockcrypto.com/post/89533/anthony-scaramuccis-skybridge-has-invested-182-million-into-bitcoin-according-to-deck,Neutral
+2020-12-29 20:55,www.wfmynews2.com,https://www.wfmynews2.com/article/sports/nfl/panthers/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 21:37,www.fool.com,https://www.fool.com/investing/2020/12/29/bitcoin-stocks-continued-their-volatile-ride-on-tu/,Positive
+2020-12-29 21:35,www.theverge.com,https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency,Positive
+2020-12-29 20:53,finance.yahoo.com,https://finance.yahoo.com/video/nfls-okung-becomes-first-player-205319168.html,Strongly Positive
+2020-12-29 20:51,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 20:40,www.wbtv.com,https://www.wbtv.com/2020/12/29/panthers-russell-okung-becomes-first-nfl-player-be-paid-bitcoin/,Strongly Negative
+2020-12-29 20:40,www.theblockcrypto.com,https://www.theblockcrypto.com/post/89533/anthony-scaramuccis-skybridge-has-invested-182-million-into-bitcoin-according-to-deck,Neutral
+2020-12-29 20:40,www.wfmynews2.com,https://www.wfmynews2.com/article/sports/nfl/panthers/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 20:40,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/interview-developing-bitcoin-with-john-newbery,Positive
+2020-12-29 19:40,cointelegraph.com,https://cointelegraph.com/news/bitcoin-mining-the-next-decade-of-sustainable-crypto-innovation-begins-today,Positive
+2020-12-29 21:15,finance.yahoo.com,https://finance.yahoo.com/news/skybridge-capital-already-invested-182m-203628963.html,Strongly Positive
+2020-12-29 20:51,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 20:25,www.wbtv.com,https://www.wbtv.com/2020/12/29/panthers-russell-okung-becomes-first-nfl-player-be-paid-bitcoin/,Strongly Negative
+2020-12-29 20:25,www.theblockcrypto.com,https://www.theblockcrypto.com/post/89533/anthony-scaramuccis-skybridge-has-invested-182-million-into-bitcoin-according-to-deck,Neutral
+2020-12-29 20:25,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/interview-developing-bitcoin-with-john-newbery,Positive
+2020-12-29 20:25,cointelegraph.com,https://cointelegraph.com/news/bitcoin-mining-the-next-decade-of-sustainable-crypto-innovation-begins-today,Positive
+2020-12-29 19:25,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89554/russell-okung-bitcoin-paycheck-zap,Neutral
+2020-12-29 19:25,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 19:25,news.bitcoin.com,https://news.bitcoin.com/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc/,Positive
+2020-12-29 20:24,www.wbtv.com,https://www.wbtv.com/2020/12/29/panthers-russell-okung-becomes-first-nfl-player-be-paid-bitcoin/,Strongly Negative
+2020-12-29 20:22,www.theblockcrypto.com,https://www.theblockcrypto.com/post/89533/anthony-scaramuccis-skybridge-has-invested-182-million-into-bitcoin-according-to-deck,Neutral
+2020-12-29 20:10,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/interview-developing-bitcoin-with-john-newbery,Positive
+2020-12-29 20:10,cointelegraph.com,https://cointelegraph.com/news/bitcoin-mining-the-next-decade-of-sustainable-crypto-innovation-begins-today,Positive
+2020-12-29 19:10,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89554/russell-okung-bitcoin-paycheck-zap,Neutral
+2020-12-29 19:10,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 19:10,news.bitcoin.com,https://news.bitcoin.com/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc/,Positive
+2020-12-29 19:10,www.independent.co.uk,https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-2020-gold-asset-b1779674.html,Neutral
+2020-12-29 20:24,www.wbtv.com,https://www.wbtv.com/2020/12/29/panthers-russell-okung-becomes-first-nfl-player-be-paid-bitcoin/,Strongly Negative
+2020-12-29 19:55,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/interview-developing-bitcoin-with-john-newbery,Positive
+2020-12-29 19:55,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89554/russell-okung-bitcoin-paycheck-zap,Neutral
+2020-12-29 19:55,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:55,news.bitcoin.com,https://news.bitcoin.com/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc/,Positive
+2020-12-29 18:55,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 17:55,www.cryptoglobe.com,https://www.cryptoglobe.com/latest/2020/12/bitcoin-on-track-to-hit-300000-in-2021-says-crypto-analyst-tone-vays/,Positive
+2020-12-29 17:55,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:55,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 19:43,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/interview-developing-bitcoin-with-john-newbery,Positive
+2020-12-29 19:40,ambcrypto.com,https://ambcrypto.com/grayscale-holds-19-billion-in-bitcoin-ethereum-and-other-crypto-aum/,Slightly Positive
+2020-12-29 18:40,news.bitcoin.com,https://news.bitcoin.com/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc/,Positive
+2020-12-29 18:40,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:40,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 18:40,www.cryptoglobe.com,https://www.cryptoglobe.com/latest/2020/12/bitcoin-on-track-to-hit-300000-in-2021-says-crypto-analyst-tone-vays/,Positive
+2020-12-29 18:40,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:40,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:40,www.complex.com,https://www.complex.com/sports/2020/12/russell-okung-paid-in-bitcoin,Slightly Positive
+2020-12-29 20:15,www.wfmynews2.com,https://www.wfmynews2.com/article/sports/nfl/panthers/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 19:43,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/interview-developing-bitcoin-with-john-newbery,Positive
+2020-12-29 19:25,news.bitcoin.com,https://news.bitcoin.com/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc/,Positive
+2020-12-29 18:25,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:25,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 18:25,www.cryptoglobe.com,https://www.cryptoglobe.com/latest/2020/12/bitcoin-on-track-to-hit-300000-in-2021-says-crypto-analyst-tone-vays/,Positive
+2020-12-29 18:25,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 18:25,www.complex.com,https://www.complex.com/sports/2020/12/russell-okung-paid-in-bitcoin,Slightly Positive
+2020-12-29 18:25,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 19:43,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/interview-developing-bitcoin-with-john-newbery,Positive
+2020-12-29 19:39,cointelegraph.com,https://cointelegraph.com/news/bitcoin-mining-the-next-decade-of-sustainable-crypto-innovation-begins-today,Positive
+2020-12-29 19:10,news.bitcoin.com,https://news.bitcoin.com/gofrom/recent_posts/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc,Positive
+2020-12-29 19:10,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:10,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 18:10,www.cryptoglobe.com,https://www.cryptoglobe.com/latest/2020/12/bitcoin-on-track-to-hit-300000-in-2021-says-crypto-analyst-tone-vays/,Positive
+2020-12-29 18:10,www.complex.com,https://www.complex.com/sports/2020/12/russell-okung-paid-in-bitcoin,Slightly Positive
+2020-12-29 18:10,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 18:10,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 18:55,www.independent.co.uk,https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-2020-gold-asset-b1779674.html,Neutral
+2020-12-29 18:55,news.bitcoin.com,https://news.bitcoin.com/gofrom/recent_posts/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc,Positive
+2020-12-29 18:55,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:55,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 17:55,www.cryptoglobe.com,https://www.cryptoglobe.com/latest/2020/12/bitcoin-on-track-to-hit-300000-in-2021-says-crypto-analyst-tone-vays/,Positive
+2020-12-29 17:55,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:55,www.complex.com,https://www.complex.com/sports/2020/12/russell-okung-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:55,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:55,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 18:40,www.independent.co.uk,https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-2020-gold-asset-b1779674.html,Neutral
+2020-12-29 18:40,news.bitcoin.com,https://news.bitcoin.com/gofrom/recent_posts/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc,Positive
+2020-12-29 18:40,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:40,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 18:40,www.cryptoglobe.com,https://www.cryptoglobe.com/latest/2020/12/bitcoin-on-track-to-hit-300000-in-2021-says-crypto-analyst-tone-vays/,Positive
+2020-12-29 18:40,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:40,www.complex.com,https://www.complex.com/sports/2020/12/russell-okung-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:40,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:40,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 18:34,www.independent.co.uk,https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-2020-gold-asset-b1779674.html,Neutral
+2020-12-29 18:31,news.bitcoin.com,https://news.bitcoin.com/gofrom/recent_posts/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc,Positive
+2020-12-29 18:25,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:25,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 18:25,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 18:25,www.complex.com,https://www.complex.com/sports/2020/12/russell-okung-paid-in-bitcoin,Slightly Positive
+2020-12-29 18:25,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:25,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 17:25,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89534/publicly-traded-greenpro-plans-bitcoin-fund-as-large-as-100-million,Neutral
+2020-12-29 19:09,www.13newsnow.com,https://www.13newsnow.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 18:34,www.independent.co.uk,https://www.independent.co.uk/life-style/gadgets-and-tech/bitcoin-price-2020-gold-asset-b1779674.html,Neutral
+2020-12-29 18:31,news.bitcoin.com,https://news.bitcoin.com/gofrom/recent_posts/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc,Positive
+2020-12-29 18:15,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:10,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 18:10,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 18:10,www.complex.com,https://www.complex.com/sports/2020/12/russell-okung-paid-in-bitcoin,Slightly Positive
+2020-12-29 18:10,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 18:10,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 18:31,news.bitcoin.com,https://news.bitcoin.com/gofrom/recent_posts/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc,Positive
+2020-12-29 18:15,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 18:07,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 17:55,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:55,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:55,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 17:55,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89534/publicly-traded-greenpro-plans-bitcoin-fund-as-large-as-100-million,Neutral
+2020-12-29 17:55,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/panthers-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin,Strongly Positive
+2020-12-29 16:55,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 18:31,news.bitcoin.com,https://news.bitcoin.com/gofrom/recent_posts/augmented-reality-firm-nextech-ar-joins-the-bitcoin-treasuries-bandwagon-buys-2-million-btc,Positive
+2020-12-29 18:15,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 17:51,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:40,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:40,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 17:40,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 17:40,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89534/publicly-traded-greenpro-plans-bitcoin-fund-as-large-as-100-million,Neutral
+2020-12-29 17:40,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/panthers-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin,Strongly Positive
+2020-12-29 17:40,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 16:40,www.marketpulse.com,https://www.marketpulse.com/20201229/oil-gold-rise-bitcoin-consolidates/,Neutral
+2020-12-29 18:18,www.wwltv.com,https://www.wwltv.com/article/news/nation-world/russell-okung-to-be-paid-in-bitcoin/507-5971ed42-4711-4a2c-b540-83a49ac0d646,Slightly Positive
+2020-12-29 18:15,www.cbssports.com,https://www.cbssports.com/nfl/news/panthers-russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Slightly Negative
+2020-12-29 17:51,www.radio.com,https://www.radio.com/937thefan/sports/panthers-ol-becomes-first-pro-athlete-to-be-paid-in-bitcoin,Slightly Positive
+2020-12-29 17:42,cointelegraph.com,https://cointelegraph.com/news/bullish-year-ahead-bitcoin-primed-for-q1-2021-gains-strength-index-suggests,Slightly Positive
+2020-12-29 17:30,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:25,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 17:25,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 17:25,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89534/publicly-traded-greenpro-plans-bitcoin-fund-as-large-as-100-million,Neutral
+2020-12-29 17:25,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 17:30,ambcrypto.com,https://ambcrypto.com/has-the-bitcoin-fomo-helped-it-surpass-visa-in-terms-of-market-cap/,Strongly Positive
+2020-12-29 17:22,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 17:20,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 17:15,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89534/publicly-traded-greenpro-plans-bitcoin-fund-as-large-as-100-million,Neutral
+2020-12-29 17:10,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 17:10,www.marketpulse.com,https://www.marketpulse.com/20201229/oil-gold-rise-bitcoin-consolidates/,Neutral
+2020-12-29 17:10,u.today,https://u.today/miami-could-put-one-percent-of-its-treasury-reserves-into-bitcoin-mayor-francis-suarez-alleges,Slightly Positive
+2020-12-29 17:10,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:10,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 16:10,www.yardbarker.com,https://www.yardbarker.com/nfl/articles/panthers_russell_okung_becomes_first_nfl_player_to_be_paid_in_bitcoin/s1_13132_33682715,Positive
+2020-12-29 17:22,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 17:20,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 16:58,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/panthers-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin,Strongly Positive
+2020-12-29 16:55,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 16:55,cointelegraph.com,https://cointelegraph.com/news/the-bitcoin-revolution-the-new-bank-of-england-is-no-bank-at-all,Positive
+2020-12-29 16:55,www.marketpulse.com,https://www.marketpulse.com/20201229/oil-gold-rise-bitcoin-consolidates/,Neutral
+2020-12-29 16:55,www.fox5ny.com,https://www.fox5ny.com/news/nfl-player-to-be-paid-in-bitcoin,Positive
+2020-12-29 16:55,u.today,https://u.today/miami-could-put-one-percent-of-its-treasury-reserves-into-bitcoin-mayor-francis-suarez-alleges,Slightly Positive
+2020-12-29 16:55,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:55,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 17:22,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 17:20,ftw.usatoday.com,https://ftw.usatoday.com/2020/12/russell-okung-is-the-first-nfl-player-to-ever-be-paid-in-bitcoin,Positive
+2020-12-29 16:58,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/panthers-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin,Strongly Positive
+2020-12-29 16:53,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 16:40,cointelegraph.com,https://cointelegraph.com/news/the-bitcoin-revolution-the-new-bank-of-england-is-no-bank-at-all,Positive
+2020-12-29 16:40,www.marketpulse.com,https://www.marketpulse.com/20201229/oil-gold-rise-bitcoin-consolidates/,Neutral
+2020-12-29 16:40,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:40,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 16:40,www.yardbarker.com,https://www.yardbarker.com/nfl/articles/panthers_russell_okung_becomes_first_nfl_player_to_be_paid_in_bitcoin/s1_13132_33682715,Positive
+2020-12-29 16:40,www.fool.com,https://www.fool.com/millionacres/real-estate-market/articles/should-you-invest-in-real-estate-with-bitcoin/,Positive
+2020-12-29 17:22,www.foxbusiness.com,https://www.foxbusiness.com/sports/panthers-russell-okung-will-become-first-nfl-player-paid-bitcoin,Neutral
+2020-12-29 16:58,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/panthers-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin,Strongly Positive
+2020-12-29 16:53,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 16:37,cointelegraph.com,https://cointelegraph.com/news/the-bitcoin-revolution-the-new-bank-of-england-is-no-bank-at-all,Positive
+2020-12-29 16:33,www.marketpulse.com,https://www.marketpulse.com/20201229/oil-gold-rise-bitcoin-consolidates/,Neutral
+2020-12-29 16:25,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:25,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 16:25,www.yardbarker.com,https://www.yardbarker.com/nfl/articles/panthers_russell_okung_becomes_first_nfl_player_to_be_paid_in_bitcoin/s1_13132_33682715,Positive
+2020-12-29 16:25,www.fool.com,https://www.fool.com/millionacres/real-estate-market/articles/should-you-invest-in-real-estate-with-bitcoin/,Positive
+2020-12-29 16:25,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/demystifying-mining-data-with-hashrateindex,Positive
+2020-12-29 16:58,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/panthers-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin,Strongly Positive
+2020-12-29 16:53,thespun.com,https://thespun.com/nfl/nfc-south/carolina-panthers/an-nfl-player-is-receiving-half-of-his-contract-in-bitcoin,Slightly Positive
+2020-12-29 16:33,www.marketpulse.com,https://www.marketpulse.com/20201229/oil-gold-rise-bitcoin-consolidates/,Neutral
+2020-12-29 16:13,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:10,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 16:10,ambcrypto.com,https://ambcrypto.com/why-bitcoin-cannot-be-killed-but-can-be-crippled-by-the-us-govt/,Neutral
+2020-12-29 16:10,www.fool.com,https://www.fool.com/millionacres/real-estate-market/articles/should-you-invest-in-real-estate-with-bitcoin/,Positive
+2020-12-29 16:10,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/demystifying-mining-data-with-hashrateindex,Positive
+2020-12-29 16:10,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 16:10,sports.yahoo.com,https://sports.yahoo.com/report-panthers-paying-half-russell-153551486.html,Neutral
+2020-12-29 16:32,www.marketpulse.com,https://www.marketpulse.com/20201229/oil-gold-rise-bitcoin-consolidates/,Neutral
+2020-12-29 16:13,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:04,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 15:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-miners-are-super-rich-earn-1000000-per-hour/,Slightly Positive
+2020-12-29 15:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 15:55,bitcoinist.com,https://bitcoinist.com/heres-what-history-says-to-expect-from-bitcoin-in-2021/,Slightly Positive
+2020-12-29 15:55,www.businesslive.co.za,https://www.businesslive.co.za/bd/companies/financial-services/2020-12-29-bitcoin-trader-mirror-trading-placed-under-provisional-liquidation-after-fsca-warnings/,Slightly Negative
+2020-12-29 16:20,www.fox5ny.com,https://www.fox5ny.com/news/nfl-player-to-be-paid-in-bitcoin,Positive
+2020-12-29 16:13,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:04,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 15:45,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 15:40,bitcoinist.com,https://bitcoinist.com/heres-what-history-says-to-expect-from-bitcoin-in-2021/,Slightly Positive
+2020-12-29 15:40,www.businesslive.co.za,https://www.businesslive.co.za/bd/companies/financial-services/2020-12-29-bitcoin-trader-mirror-trading-placed-under-provisional-liquidation-after-fsca-warnings/,Slightly Negative
+2020-12-29 15:40,clutchpoints.com,https://clutchpoints.com/panthers-news-russell-okung-achieves-dream-to-get-paid-in-bitcoin/,Slightly Positive
+2020-12-29 16:13,www.si.com,https://www.si.com/nfl/2020/12/29/russell-okung-panthers-salary-bitcoin-contract,Positive
+2020-12-29 16:04,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 15:38,bitcoinist.com,https://bitcoinist.com/heres-what-history-says-to-expect-from-bitcoin-in-2021/,Slightly Positive
+2020-12-29 15:25,www.businesslive.co.za,https://www.businesslive.co.za/bd/companies/financial-services/2020-12-29-bitcoin-trader-mirror-trading-placed-under-provisional-liquidation-after-fsca-warnings/,Slightly Negative
+2020-12-29 15:25,clutchpoints.com,https://clutchpoints.com/panthers-news-russell-okung-achieves-dream-to-get-paid-in-bitcoin/,Slightly Positive
+2020-12-29 15:25,decrypt.co,https://decrypt.co/52826/bitcoin-miners-are-making-1-million-every-hour-heres-how,Slightly Positive
+2020-12-29 15:25,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Neutral
+2020-12-29 16:04,www.usatoday.com,https://www.usatoday.com/story/sports/nfl/panthers/2020/12/29/russell-okung-paid-half-salary-bitcoin/4071640001/,Neutral
+2020-12-29 15:24,www.businesslive.co.za,https://www.businesslive.co.za/bd/companies/financial-services/2020-12-29-bitcoin-trader-mirror-trading-placed-under-provisional-liquidation-after-fsca-warnings/,Slightly Negative
+2020-12-29 15:14,clutchpoints.com,https://clutchpoints.com/panthers-news-russell-okung-achieves-dream-to-get-paid-in-bitcoin/,Slightly Positive
+2020-12-29 15:10,decrypt.co,https://decrypt.co/52826/bitcoin-miners-are-making-1-million-every-hour-heres-how,Slightly Positive
+2020-12-29 15:10,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/okungs-pay-me-in-bitcoin-becomes-a-reality-with-strike,Neutral
+2020-12-29 15:10,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Neutral
+2020-12-29 15:10,uk.finance.yahoo.com,https://uk.finance.yahoo.com/news/forget-rocketing-bitcoin-price-why-144126844.html,Slightly Positive
+2020-12-29 15:40,pantherswire.usatoday.com,https://pantherswire.usatoday.com/2020/12/29/panthers-russell-okung-salary-bitcoin/,Neutral
+2020-12-29 15:24,www.businesslive.co.za,https://www.businesslive.co.za/bd/companies/financial-services/2020-12-29-bitcoin-trader-mirror-trading-placed-under-provisional-liquidation-after-fsca-warnings/,Slightly Negative
+2020-12-29 15:14,clutchpoints.com,https://clutchpoints.com/panthers-news-russell-okung-achieves-dream-to-get-paid-in-bitcoin/,Slightly Positive
+2020-12-29 15:10,ambcrypto.com,https://ambcrypto.com/canadian-firm-nextech-buys-2-million-in-bitcoin-ceo-adds-reason-why/,Positive
+2020-12-29 14:58,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/okungs-pay-me-in-bitcoin-becomes-a-reality-with-strike,Neutral
+2020-12-29 14:58,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Neutral
+2020-12-29 14:55,finance.yahoo.com,https://finance.yahoo.com/news/panthers-russell-okung-becomes-first-140050878.html,Neutral
+2020-12-29 15:14,clutchpoints.com,https://clutchpoints.com/panthers-news-russell-okung-achieves-dream-to-get-paid-in-bitcoin/,Slightly Positive
+2020-12-29 15:10,ambcrypto.com,https://ambcrypto.com/canadian-firm-nextech-buys-2-million-in-bitcoin-ceo-adds-reason-why/,Positive
+2020-12-29 14:58,bitcoinmagazine.com,https://bitcoinmagazine.com/articles/okungs-pay-me-in-bitcoin-becomes-a-reality-with-strike,Neutral
+2020-12-29 14:58,nypost.com,https://nypost.com/2020/12/29/russell-okung-becomes-first-nfl-player-to-be-paid-in-bitcoin/,Neutral
+2020-12-29 14:50,finance.yahoo.com,https://finance.yahoo.com/news/panthers-russell-okung-becomes-first-140050878.html,Strongly Positive
+2020-12-29 14:40,via.news,https://via.news/markets/bitcoin-cash-usd-on-bearish-momentum-7-06-down-in-the-last-24-hours/,Slightly Positive
+2020-12-29 13:40,cryptonews.com,https://cryptonews.com/news/bitcoin-and-altcoins-show-positive-signs-8757.htm,Positive
+2020-12-29 15:14,clutchpoints.com,https://clutchpoints.com/panthers-news-russell-okung-achieves-dream-to-get-paid-in-bitcoin/,Slightly Positive
+2020-12-29 15:10,ambcrypto.com,https://ambcrypto.com/canadian-firm-nextech-buys-2-million-in-bitcoin-ceo-adds-reason-why/,Positive
+2020-12-29 14:59,bleacherreport.com,https://bleacherreport.com/articles/2924583-russell-okung-to-be-1st-nfl-player-paid-in-bitcoin-65m-of-panthers-salary,Positive
+2020-12-29 14:50,finance.yahoo.com,https://finance.yahoo.com/news/panthers-russell-okung-becomes-first-140050878.html,Neutral
+2020-12-29 14:25,via.news,https://via.news/markets/bitcoin-cash-usd-on-bearish-momentum-7-06-down-in-the-last-24-hours/,Slightly Positive
+2020-12-29 13:25,tearsheet.co,https://tearsheet.co/new-banks/quontic-is-first-bank-to-offer-bitcoin-rewards-on-debit-card-purchases/,Positive
+2020-12-29 13:25,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 14:50,finance.yahoo.com,https://finance.yahoo.com/news/panthers-russell-okung-becomes-first-140050878.html,Strongly Positive
+2020-12-29 14:10,via.news,https://via.news/markets/bitcoin-cash-usd-on-bearish-momentum-7-06-down-in-the-last-24-hours/,Slightly Positive
+2020-12-29 14:10,seekingalpha.com,https://seekingalpha.com/article/4396586-bitcoin-going-on,Neutral
+2020-12-29 13:10,tearsheet.co,https://tearsheet.co/new-banks/quontic-is-first-bank-to-offer-bitcoin-rewards-on-debit-card-purchases/,Positive
+2020-12-29 13:10,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 13:10,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 13:10,ambcrypto.com,https://ambcrypto.com/bitcoin-cash-iota-zcash-price-analysis-29-december/,Slightly Negative
+2020-12-29 13:10,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 14:50,finance.yahoo.com,https://finance.yahoo.com/news/panthers-russell-okung-becomes-first-140050878.html,Strongly Positive
+2020-12-29 14:41,uk.finance.yahoo.com,https://uk.finance.yahoo.com/news/forget-rocketing-bitcoin-price-why-144126844.html,Slightly Positive
+2020-12-29 14:04,via.news,https://via.news/markets/bitcoin-cash-usd-on-bearish-momentum-7-06-down-in-the-last-24-hours/,Slightly Positive
+2020-12-29 12:55,tearsheet.co,https://tearsheet.co/new-banks/quontic-is-first-bank-to-offer-bitcoin-rewards-on-debit-card-purchases/,Positive
+2020-12-29 12:55,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 12:55,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:55,ambcrypto.com,https://ambcrypto.com/bitcoin-cash-iota-zcash-price-analysis-29-december/,Slightly Negative
+2020-12-29 14:04,via.news,https://via.news/markets/bitcoin-cash-usd-on-bearish-momentum-7-06-down-in-the-last-24-hours/,Slightly Positive
+2020-12-29 13:40,tearsheet.co,https://tearsheet.co/new-banks/quontic-is-first-bank-to-offer-bitcoin-rewards-on-debit-card-purchases/,Positive
+2020-12-29 13:40,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 12:40,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:40,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:40,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 14:04,via.news,https://via.news/markets/bitcoin-cash-usd-on-bearish-momentum-7-06-down-in-the-last-24-hours/,Slightly Positive
+2020-12-29 13:25,tearsheet.co,https://tearsheet.co/new-banks/quontic-is-first-bank-to-offer-bitcoin-rewards-on-debit-card-purchases/,Positive
+2020-12-29 13:25,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 13:25,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:25,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:25,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 14:04,via.news,https://via.news/markets/bitcoin-cash-usd-on-bearish-momentum-7-06-down-in-the-last-24-hours/,Slightly Positive
+2020-12-29 13:10,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 13:10,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 13:10,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 13:10,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 12:10,cryptonews.com,https://cryptonews.com/news/bitcoin-is-a-ponzi-with-infinite-supply-skeptics-chime-in-8754.htm,Neutral
+2020-12-29 12:55,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 12:55,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:55,ambcrypto.com,https://ambcrypto.com/bitcoin-cash-iota-zcash-price-analysis-29-december/,Slightly Negative
+2020-12-29 12:55,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:55,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 12:55,cryptonews.com,https://cryptonews.com/news/bitcoin-is-a-ponzi-with-infinite-supply-skeptics-chime-in-8754.htm,Neutral
+2020-12-29 12:49,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 12:40,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:40,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:40,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 12:40,cryptonews.com,https://cryptonews.com/news/bitcoin-is-a-ponzi-with-infinite-supply-skeptics-chime-in-8754.htm,Neutral
+2020-12-29 12:40,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-shows-signs-on-imminent-top-steep-correction-incoming-202012291153,Slightly Positive
+2020-12-29 12:49,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 12:38,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:25,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:25,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 12:25,cryptonews.com,https://cryptonews.com/news/bitcoin-is-a-ponzi-with-infinite-supply-skeptics-chime-in-8754.htm,Neutral
+2020-12-29 12:25,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-shows-signs-on-imminent-top-steep-correction-incoming-202012291153,Slightly Positive
+2020-12-29 12:49,www.kitco.com,https://www.kitco.com/news/2020-12-29/Bitcoin-daily-chart-alert-Bulls-strong-no-early-clues-of-market-top-close-at-hand-Dec-29.html,Negative
+2020-12-29 12:38,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:25,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:14,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 12:10,cryptonews.com,https://cryptonews.com/news/bitcoin-is-a-ponzi-with-infinite-supply-skeptics-chime-in-8754.htm,Neutral
+2020-12-29 12:10,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-shows-signs-on-imminent-top-steep-correction-incoming-202012291153,Slightly Positive
+2020-12-29 12:38,www.nasdaq.com,https://www.nasdaq.com/articles/india-mulls-imposing-18-tax-on-bitcoin-transactions-2020-12-29,Positive
+2020-12-29 12:24,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:14,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 11:56,cryptonews.com,https://cryptonews.com/news/bitcoin-is-a-ponzi-with-infinite-supply-skeptics-chime-in-8754.htm,Neutral
+2020-12-29 11:55,www.fxstreet.com,https://www.fxstreet.com/cryptocurrencies/news/bitcoin-price-shows-signs-on-imminent-top-steep-correction-incoming-202012291153,Slightly Positive
+2020-12-29 11:55,gizmodo.com,https://gizmodo.com/india-weighs-18-tax-on-bitcoin-after-legalization-of-c-1845960924,Slightly Negative
+2020-12-29 11:55,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 11:55,news.bitcoin.com,https://news.bitcoin.com/india-18-gst-bitcoin-transactions/,Slightly Positive
+2020-12-29 12:24,www.marketwatch.com,https://www.marketwatch.com/story/after-recent-price-spike-the-energy-to-produce-bitcoin-could-power-a-country-of-more-than-200-million-people-11609244670,Positive
+2020-12-29 12:14,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 11:50,gizmodo.com,https://gizmodo.com/india-weighs-18-tax-on-bitcoin-after-legalization-of-c-1845960924,Slightly Negative
+2020-12-29 11:48,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 11:40,news.bitcoin.com,https://news.bitcoin.com/india-18-gst-bitcoin-transactions/,Slightly Positive
+2020-12-29 11:40,finance.yahoo.com,https://finance.yahoo.com/news/india-mulls-imposing-18-tax-104130032.html,Strongly Positive
+2020-12-29 11:40,bfsi.eletsonline.com,https://bfsi.eletsonline.com/centre-likely-to-propose-18-gst-on-bitcoin-trading/,Slightly Negative
+2020-12-29 11:40,www.bloomberg.com,https://www.bloomberg.com/opinion/articles/2020-12-29/bitcoin-hits-new-high-but-cryptocurrency-s-future-is-uncertain,Strongly Positive
+2020-12-29 11:40,cointelegraph.com,https://cointelegraph.com/news/india-ponders-bitcoin-tax-law-to-target-5b-market,Neutral
+2020-12-29 12:14,finance.yahoo.com,https://finance.yahoo.com/news/best-2020-buy-bitcoin-etf-050000797.html,Slightly Positive
+2020-12-29 11:50,gizmodo.com,https://gizmodo.com/india-weighs-18-tax-on-bitcoin-after-legalization-of-c-1845960924,Slightly Negative
+2020-12-29 11:48,nairametrics.com,https://nairametrics.com/2020/12/29/bitcoin-obeys-law-of-gravity-drops-1200/,Positive
+2020-12-29 11:31,news.bitcoin.com,https://news.bitcoin.com/india-18-gst-bitcoin-transactions/,Slightly Positive
+2020-12-29 11:25,finance.yahoo.com,https://finance.yahoo.com/news/india-mulls-imposing-18-tax-104130032.html,Strongly Positive
+2020-12-29 11:25,bfsi.eletsonline.com,https://bfsi.eletsonline.com/centre-likely-to-propose-18-gst-on-bitcoin-trading/,Slightly Negative
+2020-12-29 11:25,www.bloomberg.com,https://www.bloomberg.com/opinion/articles/2020-12-29/bitcoin-hits-new-high-but-cryptocurrency-s-future-is-uncertain,Strongly Positive
+2020-12-29 11:25,cointelegraph.com,https://cointelegraph.com/news/india-ponders-bitcoin-tax-law-to-target-5b-market,Neutral
+2020-12-29 12:01,www.prnewswire.com,https://www.prnewswire.com/news-releases/bitcoin-association-launches-online-education-platform-bitcoin-sv-academy-301198939.html,Positive
+2020-12-29 11:31,news.bitcoin.com,https://news.bitcoin.com/india-18-gst-bitcoin-transactions/,Slightly Positive
+2020-12-29 11:24,finance.yahoo.com,https://finance.yahoo.com/news/india-mulls-imposing-18-tax-104130032.html,Strongly Positive
+2020-12-29 11:10,bfsi.eletsonline.com,https://bfsi.eletsonline.com/centre-likely-to-propose-18-gst-on-bitcoin-trading/,Slightly Negative
+2020-12-29 11:10,www.bloomberg.com,https://www.bloomberg.com/opinion/articles/2020-12-29/bitcoin-hits-new-high-but-cryptocurrency-s-future-is-uncertain,Strongly Positive
+2020-12-29 11:10,cointelegraph.com,https://cointelegraph.com/news/india-ponders-bitcoin-tax-law-to-target-5b-market,Neutral
+2020-12-29 11:10,www.jacarandafm.com,https://www.jacarandafm.com/news/news/stellenbosch-bitcoin-trader-mti-placed-under-provisional-liquidation/,Slightly Positive
+2020-12-29 11:10,www.news24.com,https://www.news24.com/fin24/companies/financial-services/just-in-court-grants-provisional-liquidation-order-against-stellenbosch-bitcoin-trader-mti-20201229,Neutral
+2020-12-29 11:31,news.bitcoin.com,https://news.bitcoin.com/india-18-gst-bitcoin-transactions/,Slightly Positive
+2020-12-29 11:05,bfsi.eletsonline.com,https://bfsi.eletsonline.com/centre-likely-to-propose-18-gst-on-bitcoin-trading/,Slightly Negative
+2020-12-29 11:02,www.bloomberg.com,https://www.bloomberg.com/opinion/articles/2020-12-29/bitcoin-hits-new-high-but-cryptocurrency-s-future-is-uncertain,Strongly Positive
+2020-12-29 11:01,cointelegraph.com,https://cointelegraph.com/news/india-ponders-bitcoin-tax-law-to-target-5b-market,Neutral
+2020-12-29 10:55,www.jacarandafm.com,https://www.jacarandafm.com/news/news/stellenbosch-bitcoin-trader-mti-placed-under-provisional-liquidation/,Slightly Positive
+2020-12-29 10:55,www.news24.com,https://www.news24.com/fin24/companies/financial-services/just-in-court-grants-provisional-liquidation-order-against-stellenbosch-bitcoin-trader-mti-20201229,Neutral
+2020-12-29 10:55,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/major-darknet-marketplace-stops-accepting-bitcoin/,Neutral
+2020-12-29 10:55,coingeek.com,https://coingeek.com/check-out-bitcoin-for-payments-biggest-developments-in-2020/,Positive
+2020-12-29 11:31,news.bitcoin.com,https://news.bitcoin.com/india-18-gst-bitcoin-transactions/,Slightly Positive
+2020-12-29 11:05,bfsi.eletsonline.com,https://bfsi.eletsonline.com/centre-likely-to-propose-18-gst-on-bitcoin-trading/,Slightly Negative
+2020-12-29 11:01,cointelegraph.com,https://cointelegraph.com/news/india-ponders-bitcoin-tax-law-to-target-5b-market,Neutral
+2020-12-29 10:43,www.jacarandafm.com,https://www.jacarandafm.com/news/news/stellenbosch-bitcoin-trader-mti-placed-under-provisional-liquidation/,Slightly Positive
+2020-12-29 10:40,www.news24.com,https://www.news24.com/fin24/companies/financial-services/just-in-court-grants-provisional-liquidation-order-against-stellenbosch-bitcoin-trader-mti-20201229,Neutral
+2020-12-29 10:40,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/news/major-darknet-marketplace-stops-accepting-bitcoin/,Neutral
+2020-12-29 10:40,coingeek.com,https://coingeek.com/check-out-bitcoin-for-payments-biggest-developments-in-2020/,Positive
+2020-12-29 10:40,www.theblockcrypto.com,https://www.theblockcrypto.com/linked/89507/bitcoin-miner-revenue-th-s-new-record-high-2020,Neutral
 2020-12-29 11:05,bfsi.eletsonline.com,https://bfsi.eletsonline.com/centre-likely-to-propose-18-gst-on-bitcoin-trading/,Slightly Negative
 2020-12-29 10:43,www.jacarandafm.com,https://www.jacarandafm.com/news/news/stellenbosch-bitcoin-trader-mti-placed-under-provisional-liquidation/,Slightly Positive
 2020-12-29 10:25,www.news24.com,https://www.news24.com/fin24/companies/financial-services/just-in-court-grants-provisional-liquidation-order-against-stellenbosch-bitcoin-trader-mti-20201229,Neutral

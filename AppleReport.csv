@@ -1,4 +1,957 @@
 Date,Website,Article_Link,Predicted_Sentiment
+2020-12-30 05:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 06:10,www.phonearena.com,https://www.phonearena.com/news/apple-grubhub-offer-up-to-10-dollars-off-meal-deliveries-for-a-limited-time_id129264,Slightly Positive
+2020-12-30 04:10,www.tweaktown.com,https://www.tweaktown.com/news/76987/these-pure-gold-custom-airpods-max-headphones-cost-100-000/index.html,Positive
+2020-12-30 03:10,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 04:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:10,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:10,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 02:10,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 02:10,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 05:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 05:55,www.phonearena.com,https://www.phonearena.com/news/apple-grubhub-offer-up-to-10-dollars-off-meal-deliveries-for-a-limited-time_id129264,Slightly Positive
+2020-12-30 04:55,www.tweaktown.com,https://www.tweaktown.com/news/76987/these-pure-gold-custom-airpods-max-headphones-cost-100-000/index.html,Positive
+2020-12-30 02:55,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:55,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 02:55,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 01:55,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:55,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 05:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 05:40,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 04:40,www.tweaktown.com,https://www.tweaktown.com/news/76987/these-pure-gold-custom-airpods-max-headphones-cost-100-000/index.html,Positive
+2020-12-30 03:40,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:40,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 03:40,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:40,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 01:40,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:40,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 05:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 05:25,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 04:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:25,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 03:25,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:25,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 01:25,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:25,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 06:10,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 05:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:10,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:10,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 03:10,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 02:10,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 02:10,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 05:55,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 05:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:55,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 02:55,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 02:55,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:55,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:55,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 05:40,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 05:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:40,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:40,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:40,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 03:40,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:40,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:40,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:40,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 05:25,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 05:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:25,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:25,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 03:25,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:25,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:25,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 06:10,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 05:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:10,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:10,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 03:10,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 02:10,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 02:10,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 05:55,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 05:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:55,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 02:55,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 02:55,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:55,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:55,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 05:40,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/caviar-custom-gold-plated-airpods-max-golden-black-nearly-rm500000/,Positive
+2020-12-30 05:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:40,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:40,www.soyacincau.com,https://www.soyacincau.com/2020/12/30/covid-19-will-the-apple-wallet-be-the-future-for-vaccine-verified-check-ins/,Positive
+2020-12-30 03:40,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 03:40,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:40,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:40,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:40,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 05:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:25,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 03:25,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:25,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:25,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 01:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 05:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 04:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 03:10,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 03:10,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 02:10,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 02:10,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 01:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 05:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/apple-pulls-ios-app-that-promoted-secret-parties-during-pandemic,Slightly Positive
+2020-12-30 02:55,www.staradvertiser.com,https://www.staradvertiser.com/2020/12/29/breaking-news/apple-hits-record-after-december-surge-sends-it-past-amazon/,Strongly Positive
+2020-12-30 02:55,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:55,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:55,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 00:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 05:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:40,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:40,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:40,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:40,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 00:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 05:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:25,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:25,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:25,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 01:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:25,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 05:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:10,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 02:10,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 02:10,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 01:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 01:10,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 05:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 02:55,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:55,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:55,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:55,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 00:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:55,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 05:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 03:40,9to5mac.com,https://9to5mac.com/2020/12/29/app-that-promoted-secret-parties-during-the-covid-19-pandemic-is-removed-from-app-store/,Positive
+2020-12-30 01:40,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:40,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:40,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-30 05:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:25,9to5mac.com,https://9to5mac.com/2020/12/29/latest-apple-pay-promotion-offers-20-discount-on-grubhub-orders/,Slightly Positive
+2020-12-30 01:25,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:25,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 01:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:25,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 00:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-30 05:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 02:10,www.cnet.com,https://www.cnet.com/news/best-kids-tablet/,Positive
+2020-12-30 01:10,appleinsider.com,https://appleinsider.com/articles/20/12/30/save-20-on-grubhub-with-latest-apple-pay-promo,Positive
+2020-12-30 01:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/grubhub-apple-pay-promo/,Slightly Negative
+2020-12-30 01:10,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 00:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-30 05:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:55,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:55,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 22:55,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-30 05:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:40,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 23:40,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-30 05:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:25,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 00:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:25,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 23:25,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-30 05:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 01:10,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 00:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:10,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-30 05:01,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:55,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:55,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-29 22:55,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:55,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-30 05:01,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:40,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-29 22:40,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:40,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-30 02:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:25,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 00:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:25,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:25,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-30 02:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 01:10,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-30 00:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:10,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 23:10,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-30 01:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:55,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-aapl-dips-more-broader-224510583.html,Strongly Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:55,www.inputmag.com,https://www.inputmag.com/tech/samsungs-galaxy-s21-will-support-the-s-pen-according-to-new-filing,Positive
+2020-12-29 22:55,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:55,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-30 01:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:40,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:40,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:40,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 21:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-30 02:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:25,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:25,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:25,in.reuters.com,https://in.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idINL1N2J91MM,Neutral
+2020-12-29 21:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:25,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-30 02:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:10,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 23:10,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 23:10,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 22:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 22:10,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-30 01:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:55,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:55,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:55,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:55,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 21:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:55,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-30 01:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:40,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:40,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 21:40,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:40,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-30 02:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:25,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:25,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:25,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 22:25,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-30 02:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:10,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 23:10,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:10,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 22:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 22:10,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-30 01:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:55,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:55,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:55,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 21:55,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-30 01:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:40,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:40,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:40,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:40,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 21:40,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed,Positive
+2020-12-30 00:25,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:25,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:25,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:25,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 01:10,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 23:10,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 23:10,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 22:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 22:10,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-29 21:10,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/apple-loses-copyright-claims-against-virtual-iphone-maker,Strongly Positive
+2020-12-30 01:39,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:55,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/the-best-accessories-for-your-new-iphone-7-ways-to-make-your-phone-even-better/,Positive
+2020-12-29 23:55,www.cnet.com,https://www.cnet.com/news/best-smartwatches-for-2021/,Positive
+2020-12-29 22:55,www.cnet.com,https://www.cnet.com/news/the-best-noise-canceling-true-wireless-earbuds-for-2021/,Strongly Positive
+2020-12-29 22:55,techcrunch.com,https://techcrunch.com/2020/12/29/this-quick-and-clever-tool-creates-an-instant-homepage-for-your-podcast/,Positive
+2020-12-29 21:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:55,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-29 20:55,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/apple-loses-copyright-claims-against-virtual-iphone-maker,Strongly Positive
+2020-12-30 01:34,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-30 00:40,9to5google.com,https://9to5google.com/2020/12/29/pixel-adaptive-charging/,Slightly Positive
+2020-12-30 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/airpods-pro-2-two-sizes/,Positive
+2020-12-29 21:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:40,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-29 21:40,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/apple-loses-copyright-claims-against-virtual-iphone-maker,Strongly Positive
+2020-12-29 21:40,www.macrumors.com,https://www.macrumors.com/guide/top-five-apple-products-of-2020/,Positive
+2020-12-29 21:40,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 20:40,www.theverge.com,https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla,Slightly Negative
+2020-12-29 20:40,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 23:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-stimulus-checks-apple-stock-new-buy-point/,Slightly Positive
+2020-12-29 23:25,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 22:25,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:25,www.crn.com,https://www.crn.com/slide-shows/components-peripherals/5-big-statements-in-hedge-fund-third-point-s-letter-to-intel,Slightly Positive
+2020-12-29 21:25,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 21:25,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/apple-loses-copyright-claims-against-virtual-iphone-maker,Strongly Positive
+2020-12-29 21:25,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 21:25,www.theverge.com,https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla,Slightly Negative
+2020-12-29 20:25,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 22:10,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 22:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:10,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 21:10,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/apple-loses-copyright-claims-against-virtual-iphone-maker,Strongly Positive
+2020-12-29 21:10,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 21:10,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 21:10,www.theverge.com,https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla,Slightly Negative
+2020-12-29 20:10,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 20:10,www.businessinsider.com,https://www.businessinsider.com/intel-stock-price-third-point-urges-chipmaker-explore-strategic-alternatives-2020-12,Neutral
+2020-12-29 20:10,9to5mac.com,https://9to5mac.com/2020/12/29/airpods-pro-2-two-sizes-rumor/,Slightly Positive
+2020-12-29 21:55,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:55,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 20:55,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 20:55,www.macrumors.com,https://www.macrumors.com/guide/top-five-apple-products-of-2020/,Positive
+2020-12-29 20:55,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 20:55,www.theverge.com,https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla,Slightly Negative
+2020-12-29 19:55,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 19:55,www.businessinsider.com,https://www.businessinsider.com/intel-stock-price-third-point-urges-chipmaker-explore-strategic-alternatives-2020-12,Neutral
+2020-12-29 19:55,9to5mac.com,https://9to5mac.com/2020/12/29/airpods-pro-2-two-sizes-rumor/,Slightly Positive
+2020-12-29 21:40,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:40,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:40,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 21:40,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 20:40,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 20:40,www.theverge.com,https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla,Slightly Negative
+2020-12-29 20:40,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 20:40,www.businessinsider.com,https://www.businessinsider.com/intel-stock-price-third-point-urges-chipmaker-explore-strategic-alternatives-2020-12,Neutral
+2020-12-29 19:40,9to5mac.com,https://9to5mac.com/2020/12/29/airpods-pro-2-two-sizes-rumor/,Slightly Positive
+2020-12-29 19:40,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 22:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-loses-copyright-claims-against-212737619.html,Neutral
+2020-12-29 21:25,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:25,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 21:25,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 21:25,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 21:25,www.theverge.com,https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla,Slightly Negative
+2020-12-29 20:25,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 20:25,www.businessinsider.com,https://www.businessinsider.com/intel-stock-price-third-point-urges-chipmaker-explore-strategic-alternatives-2020-12,Neutral
+2020-12-29 20:25,nypost.com,https://nypost.com/2020/12/29/dan-loebs-hedge-fund-urges-intel-to-explore-deal-options/,Slightly Positive
+2020-12-29 20:25,9to5mac.com,https://9to5mac.com/2020/12/29/airpods-pro-2-two-sizes-rumor/,Slightly Positive
+2020-12-29 22:10,www.reuters.com,https://www.reuters.com/article/us-apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUSKBN29320J,Neutral
+2020-12-29 22:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:10,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 21:10,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 21:10,www.macrumors.com,https://www.macrumors.com/guide/top-five-apple-products-of-2020/,Positive
+2020-12-29 21:10,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 20:10,9to5mac.com,https://9to5mac.com/2020/12/29/airpods-pro-2-two-sizes-rumor/,Slightly Positive
+2020-12-29 20:10,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 20:10,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 19:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 21:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-loses-copyright-claims-against-212737619.html,Neutral
+2020-12-29 21:55,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:55,www.reuters.com,https://www.reuters.com/article/us-apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUSKBN29320J,Neutral
+2020-12-29 21:55,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:55,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 20:55,www.macrumors.com,https://www.macrumors.com/guide/top-five-apple-products-of-2020/,Positive
+2020-12-29 20:55,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 20:55,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 19:55,9to5mac.com,https://9to5mac.com/2020/12/29/airpods-pro-2-two-sizes-rumor/,Slightly Positive
+2020-12-29 19:55,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 21:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-loses-copyright-claims-against-212737619.html,Neutral
+2020-12-29 21:40,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:40,www.reuters.com,https://www.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUSL1N2J91MM,Neutral
+2020-12-29 21:40,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 21:40,www.macrumors.com,https://www.macrumors.com/guide/top-five-apple-products-of-2020/,Positive
+2020-12-29 21:40,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 20:40,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 19:40,9to5mac.com,https://9to5mac.com/2020/12/29/airpods-pro-2-two-sizes-rumor/,Slightly Positive
+2020-12-29 19:40,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:40,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 22:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-loses-copyright-claims-against-212737619.html,Strongly Positive
+2020-12-29 22:25,www.marketwatch.com,https://www.marketwatch.com/story/apple-inc-stock-underperforms-tuesday-when-compared-to-competitors-01609277441-a2bb96bf290f,Slightly Positive
+2020-12-29 21:25,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 21:25,9to5mac.com,https://9to5mac.com/2020/12/29/apple-2020-year-in-review/,Slightly Positive
+2020-12-29 21:25,www.extremetech.com,https://www.extremetech.com/computing/318715-comparison-of-apple-m1-a14-shows-differences-in-soc-design,Neutral
+2020-12-29 19:25,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:25,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 19:25,www.businessinsider.com,https://www.businessinsider.com/apple-supplier-accused-of-using-forced-uighur-labor-iphone-screens-2020-12,Slightly Negative
+2020-12-29 19:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 19:25,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 22:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-loses-copyright-claims-against-212737619.html,Strongly Positive
+2020-12-29 22:10,www.reuters.com,https://www.reuters.com/article/us-apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-u-s-security-bug-startup-idUSKBN29320J,Neutral
+2020-12-29 22:10,www.theverge.com,https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use,Positive
+2020-12-29 21:10,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 20:10,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:10,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 19:10,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 18:10,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:10,9to5mac.com,https://9to5mac.com/2020/12/29/deals-m1-mac-mini-639-apple-watch-series-6-from-339-more/,Positive
+2020-12-29 21:55,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 19:55,appleinsider.com,https://appleinsider.com/articles/20/12/29/apple-loses-in-court-to-security-firm-corellium-over-ios-emulation-issues,Negative
+2020-12-29 19:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 18:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 17:55,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:55,9to5mac.com,https://9to5mac.com/2020/12/29/deals-m1-mac-mini-639-apple-watch-series-6-from-339-more/,Positive
+2020-12-29 16:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246640.html,Strongly Positive
+2020-12-29 16:55,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:55,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 21:40,uk.reuters.com,https://uk.reuters.com/article/apple-corellium/apple-loses-copyright-claims-in-lawsuit-against-us-security-bug-startup-idUKL1N2J91MM,Neutral
+2020-12-29 21:40,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 19:40,appleinsider.com,https://appleinsider.com/articles/20/12/29/apple-loses-in-court-to-security-firm-corellium-over-ios-emulation-issues,Negative
+2020-12-29 19:40,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:40,www.businessinsider.com,https://www.businessinsider.com/apple-supplier-accused-of-using-forced-uighur-labor-iphone-screens-2020-12,Slightly Negative
+2020-12-29 19:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Neutral
+2020-12-29 19:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 18:40,www.androidauthority.com,https://www.androidauthority.com/samsung-galaxy-s21-plus-display-1188722/,Slightly Positive
+2020-12-29 17:40,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:40,9to5mac.com,https://9to5mac.com/2020/12/29/deals-m1-mac-mini-639-apple-watch-series-6-from-339-more/,Positive
+2020-12-29 21:25,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 20:25,appleinsider.com,https://appleinsider.com/articles/20/12/29/apple-loses-in-court-to-security-firm-corellium-over-ios-emulation-issues,Negative
+2020-12-29 19:25,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:25,www.businessinsider.com,https://www.businessinsider.com/apple-supplier-accused-of-using-forced-uighur-labor-iphone-screens-2020-12,Slightly Negative
+2020-12-29 19:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 19:25,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 18:25,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:25,9to5mac.com,https://9to5mac.com/2020/12/29/deals-m1-mac-mini-639-apple-watch-series-6-from-339-more/,Positive
+2020-12-29 17:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246640.html,Strongly Positive
+2020-12-29 17:25,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 21:10,techcrunch.com,https://techcrunch.com/2020/12/29/apples-lawsuit-against-corellium-has-been-partly-thrown-out/,Slightly Positive
+2020-12-29 20:10,appleinsider.com,https://appleinsider.com/articles/20/12/29/apple-loses-in-court-to-security-firm-corellium-over-ios-emulation-issues,Negative
+2020-12-29 20:10,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:10,www.businessinsider.com,https://www.businessinsider.com/apple-supplier-accused-of-using-forced-uighur-labor-iphone-screens-2020-12,Slightly Negative
+2020-12-29 19:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 19:10,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 18:10,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:10,9to5mac.com,https://9to5mac.com/2020/12/29/deals-m1-mac-mini-639-apple-watch-series-6-from-339-more/,Positive
+2020-12-29 17:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246640.html,Strongly Positive
+2020-12-29 17:10,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 20:55,www.theverge.com,https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla,Slightly Negative
+2020-12-29 19:55,appleinsider.com,https://appleinsider.com/articles/20/12/29/apple-loses-in-court-to-security-firm-corellium-over-ios-emulation-issues,Negative
+2020-12-29 19:55,www.businessinsider.com,https://www.businessinsider.com/apple-supplier-accused-of-using-forced-uighur-labor-iphone-screens-2020-12,Slightly Negative
+2020-12-29 19:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 18:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 17:55,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 16:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246640.html,Strongly Positive
+2020-12-29 16:55,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:55,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 19:40,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 19:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 17:40,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:40,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:40,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 13:40,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 14:40,www.financialexpress.com,https://www.financialexpress.com/industry/technology/apple-watch-series-6-review-better-than-the-best/2160075/,Positive
+2020-12-29 14:40,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 19:25,9to5mac.com,https://9to5mac.com/2020/12/29/apple-loses-copyright-lawsuit-against-ios-virtualization-company-corellium/,Slightly Negative
+2020-12-29 19:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 19:25,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 18:25,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:25,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:25,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 13:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 14:25,www.financialexpress.com,https://www.financialexpress.com/industry/technology/apple-watch-series-6-review-better-than-the-best/2160075/,Positive
+2020-12-29 14:25,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 19:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 19:10,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 18:10,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:10,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:10,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 13:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 14:10,www.financialexpress.com,https://www.financialexpress.com/industry/technology/apple-watch-series-6-review-better-than-the-best/2160075/,Positive
+2020-12-29 14:10,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 14:10,www.usatoday.com,https://www.usatoday.com/story/money/2020/12/29/with-apple-car-tim-cook-steps-from-steve-jobs-shadow/115229822/,Slightly Positive
+2020-12-29 19:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 18:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 17:55,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 16:55,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:55,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 13:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 14:55,www.financialexpress.com,https://www.financialexpress.com/industry/technology/apple-watch-series-6-review-better-than-the-best/2160075/,Positive
+2020-12-29 14:55,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:55,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 19:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 19:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 17:40,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:40,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:40,www.financialexpress.com,https://www.financialexpress.com/industry/technology/apple-watch-series-6-review-better-than-the-best/2160075/,Positive
+2020-12-29 14:40,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:40,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:40,www.usatoday.com,https://www.usatoday.com/story/money/2020/12/29/with-apple-car-tim-cook-steps-from-steve-jobs-shadow/115229822/,Slightly Positive
+2020-12-29 13:40,9to5google.com,https://9to5google.com/2020/12/29/mediatek-surpassed-qualcomm-as-the-largest-chip-vendor-in-q3-2020/,Positive
+2020-12-29 19:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Neutral
+2020-12-29 19:25,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Slightly Positive
+2020-12-29 17:25,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:25,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:25,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/apple-hits-record-after-december-surge-propels-stock-past-amazon,Strongly Positive
+2020-12-29 16:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:25,www.financialexpress.com,https://www.financialexpress.com/industry/technology/apple-watch-series-6-review-better-than-the-best/2160075/,Positive
+2020-12-29 14:25,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 14:25,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:25,www.usatoday.com,https://www.usatoday.com/story/money/2020/12/29/with-apple-car-tim-cook-steps-from-steve-jobs-shadow/115229822/,Slightly Positive
+2020-12-29 19:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Neutral
+2020-12-29 19:10,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Positive
+2020-12-29 18:10,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:10,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 17:10,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:10,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:10,www.bloomberg.com,https://www.bloomberg.com/news/articles/2020-12-29/apple-hits-record-after-december-surge-propels-stock-past-amazon,Strongly Positive
+2020-12-29 16:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:10,www.financialexpress.com,https://www.financialexpress.com/industry/technology/apple-watch-series-6-review-better-than-the-best/2160075/,Positive
+2020-12-29 14:10,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 19:04,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Neutral
+2020-12-29 18:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Positive
+2020-12-29 16:55,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:55,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:55,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:55,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:55,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 19:04,finance.yahoo.com,https://finance.yahoo.com/news/apple-stocks-stunning-2020-190020369.html,Strongly Positive
+2020-12-29 18:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Positive
+2020-12-29 17:40,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:40,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:40,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 15:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:40,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:40,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:40,www.usatoday.com,https://www.usatoday.com/story/money/2020/12/29/with-apple-car-tim-cook-steps-from-steve-jobs-shadow/115229822/,Slightly Positive
+2020-12-29 18:35,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/,Positive
+2020-12-29 17:25,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:25,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:25,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Neutral
+2020-12-29 16:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:25,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:25,www.usatoday.com,https://www.usatoday.com/story/money/2020/12/29/with-apple-car-tim-cook-steps-from-steve-jobs-shadow/115229822/,Slightly Positive
+2020-12-29 13:25,9to5google.com,https://9to5google.com/2020/12/29/mediatek-surpassed-qualcomm-as-the-largest-chip-vendor-in-q3-2020/,Positive
+2020-12-29 13:25,nypost.com,https://nypost.com/2020/12/29/tesla-will-soon-add-support-for-apple-amazon-music-report/,Slightly Positive
+2020-12-29 17:10,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 17:10,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:10,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Neutral
+2020-12-29 16:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:10,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 14:10,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 14:10,9to5google.com,https://9to5google.com/2020/12/29/mediatek-surpassed-qualcomm-as-the-largest-chip-vendor-in-q3-2020/,Positive
+2020-12-29 13:10,nypost.com,https://nypost.com/2020/12/29/tesla-will-soon-add-support-for-apple-amazon-music-report/,Slightly Positive
+2020-12-29 13:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 17:55,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 16:55,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:55,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:55,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 15:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:55,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:55,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:55,9to5google.com,https://9to5google.com/2020/12/29/mediatek-surpassed-qualcomm-as-the-largest-chip-vendor-in-q3-2020/,Positive
+2020-12-29 13:55,nypost.com,https://nypost.com/2020/12/29/tesla-will-soon-add-support-for-apple-amazon-music-report/,Slightly Positive
+2020-12-29 17:40,www.investors.com,https://www.investors.com/news/technology/apple-stock-hits-record-high-bullish-2021-prediction/,Slightly Positive
+2020-12-29 17:40,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:40,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:40,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Neutral
+2020-12-29 15:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:40,www.fool.com,https://www.fool.com/investing/2020/12/29/terrific-year-awaits-apple-supplier-stock-jabil/,Positive
+2020-12-29 14:40,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:40,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:40,9to5google.com,https://9to5google.com/2020/12/29/mediatek-surpassed-qualcomm-as-the-largest-chip-vendor-in-q3-2020/,Positive
+2020-12-29 17:25,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:25,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:25,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 16:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:25,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 14:25,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:25,www.usatoday.com,https://www.usatoday.com/story/money/2020/12/29/with-apple-car-tim-cook-steps-from-steve-jobs-shadow/115229822/,Slightly Positive
+2020-12-29 13:25,9to5google.com,https://9to5google.com/2020/12/29/mediatek-surpassed-qualcomm-as-the-largest-chip-vendor-in-q3-2020/,Positive
+2020-12-29 13:25,nypost.com,https://nypost.com/2020/12/29/tesla-will-soon-add-support-for-apple-amazon-music-report/,Slightly Positive
+2020-12-29 17:10,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 17:10,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:10,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 16:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:10,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 14:10,9to5google.com,https://9to5google.com/2020/12/29/mediatek-surpassed-qualcomm-as-the-largest-chip-vendor-in-q3-2020/,Positive
+2020-12-29 13:10,nypost.com,https://nypost.com/2020/12/29/tesla-will-soon-add-support-for-apple-amazon-music-report/,Slightly Positive
+2020-12-29 13:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 16:55,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:55,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:55,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 15:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:55,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:55,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:55,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 12:55,9to5mac.com,https://9to5mac.com/2020/12/29/attach-magsafe-wallet-reminder/,Slightly Positive
+2020-12-29 16:41,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:40,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:40,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:40,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 15:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:40,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:40,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:40,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 12:40,9to5mac.com,https://9to5mac.com/2020/12/29/attach-magsafe-wallet-reminder/,Slightly Positive
+2020-12-29 12:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 16:41,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:25,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:25,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:25,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 16:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:25,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 14:25,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:25,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 12:25,9to5mac.com,https://9to5mac.com/2020/12/29/attach-magsafe-wallet-reminder/,Slightly Positive
+2020-12-29 12:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 16:41,www.cnbc.com,https://www.cnbc.com/2020/12/29/apple-amazon-microsoft-stick-with-the-winners-traders-say.html,Strongly Positive
+2020-12-29 16:11,www.aarp.org,https://www.aarp.org/home-family/friends-family/info-2020/apple-farmer-interview.html,Positive
+2020-12-29 16:10,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 16:10,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 14:10,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 14:10,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:10,nypost.com,https://nypost.com/2020/12/29/tesla-will-soon-add-support-for-apple-amazon-music-report/,Slightly Positive
+2020-12-29 13:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 13:10,9to5mac.com,https://9to5mac.com/2020/12/29/attach-magsafe-wallet-reminder/,Slightly Positive
+2020-12-29 13:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 15:57,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:55,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 15:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-stimulus-checks-apple-stock-buy-point-tesla-stock/,Slightly Positive
+2020-12-29 14:55,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:55,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:55,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 12:55,9to5mac.com,https://9to5mac.com/2020/12/29/attach-magsafe-wallet-reminder/,Slightly Positive
+2020-12-29 12:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 12:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 15:57,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:43,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Positive
+2020-12-29 13:40,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:40,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 12:40,9to5mac.com,https://9to5mac.com/2020/12/29/attach-magsafe-wallet-reminder/,Slightly Positive
+2020-12-29 12:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 12:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 12:40,www.fastcompany.com,https://www.fastcompany.com/90590201/how-to-use-flash-to-play-old-games-after-adobe-discontinues-it,Slightly Positive
+2020-12-29 11:40,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 15:57,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:43,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Positive
+2020-12-29 15:25,www.fool.com,https://www.fool.com/investing/2020/12/29/terrific-year-awaits-apple-supplier-stock-jabil/,Positive
+2020-12-29 14:25,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:25,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 12:25,9to5mac.com,https://9to5mac.com/2020/12/29/attach-magsafe-wallet-reminder/,Slightly Positive
+2020-12-29 12:25,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 12:25,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 15:57,www.cultofmac.com,https://www.cultofmac.com/731282/apple-negotiating-for-second-mariah-carey-christmas-special-for-next-year/,Positive
+2020-12-29 15:43,finance.yahoo.com,https://finance.yahoo.com/news/apple-hits-record-december-surge-153246994.html,Strongly Positive
+2020-12-29 15:10,www.fool.com,https://www.fool.com/investing/2020/12/29/terrific-year-awaits-apple-supplier-stock-jabil/,Positive
+2020-12-29 14:10,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 13:10,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 12:10,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 12:10,www.fastcompany.com,https://www.fastcompany.com/90590201/how-to-use-flash-to-play-old-games-after-adobe-discontinues-it,Slightly Positive
+2020-12-29 11:10,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 14:55,9to5toys.com,https://9to5toys.com/2020/12/29/apple-new-years-sale-offers-10-film-bundles-for-30-more-starting-at-5/,Positive
+2020-12-29 13:55,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:55,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 12:55,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 12:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 12:55,www.fastcompany.com,https://www.fastcompany.com/90590201/how-to-use-flash-to-play-old-games-after-adobe-discontinues-it,Slightly Positive
+2020-12-29 11:55,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:55,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 13:40,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 12:40,www.macrumors.com,https://www.macrumors.com/2020/12/29/apple-mariah-carey-christmas-special-followup/,Positive
+2020-12-29 12:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 12:40,www.fastcompany.com,https://www.fastcompany.com/90590201/how-to-use-flash-to-play-old-games-after-adobe-discontinues-it,Slightly Positive
+2020-12-29 11:40,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 08:40,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:40,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:40,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 14:25,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:25,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:25,realmoney.thestreet.com,https://realmoney.thestreet.com/investing/stocks/strangest-of-rallies-wonder-woman-1984-retail-sales-apple-s-inflection-point-15526198,Slightly Positive
+2020-12-29 12:25,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 12:25,www.fastcompany.com,https://www.fastcompany.com/90590201/how-to-use-flash-to-play-old-games-after-adobe-discontinues-it,Slightly Positive
+2020-12-29 11:25,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 09:25,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:25,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:25,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 14:10,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:10,realmoney.thestreet.com,https://realmoney.thestreet.com/investing/stocks/strangest-of-rallies-wonder-woman-1984-retail-sales-apple-s-inflection-point-15526198,Slightly Positive
+2020-12-29 12:10,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 12:10,www.fastcompany.com,https://www.fastcompany.com/90590201/how-to-use-flash-to-play-old-games-after-adobe-discontinues-it,Slightly Positive
+2020-12-29 11:10,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 09:10,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:10,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 13:55,www.engadget.com,https://www.engadget.com/watch-prototype-leak-reveals-apples-ultra-security-testing-program-135014542.html,Neutral
+2020-12-29 13:55,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 12:55,realmoney.thestreet.com,https://realmoney.thestreet.com/investing/stocks/strangest-of-rallies-wonder-woman-1984-retail-sales-apple-s-inflection-point-15526198,Slightly Positive
+2020-12-29 12:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 11:55,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 08:55,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:55,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:55,people.com,https://people.com/tech/amazon-after-christmas-apple-deals-2020/,Slightly Positive
+2020-12-29 13:40,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 13:40,realmoney.thestreet.com,https://realmoney.thestreet.com/investing/stocks/strangest-of-rallies-wonder-woman-1984-retail-sales-apple-s-inflection-point-15526198,Slightly Positive
+2020-12-29 12:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 11:40,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:40,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:40,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:40,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:40,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 12:25,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 11:25,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 09:25,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:25,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 04:25,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 04:25,people.com,https://people.com/tech/amazon-after-christmas-apple-deals-2020/,Slightly Positive
+2020-12-29 03:25,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:25,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:25,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 13:10,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 12:10,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 11:10,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 09:10,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:10,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 04:10,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 04:10,people.com,https://people.com/tech/amazon-after-christmas-apple-deals-2020/,Slightly Positive
+2020-12-29 03:10,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:10,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 12:55,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 11:55,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 08:55,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:55,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:55,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 00:55,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-hearing-study-accidental-data-collection/,Positive
+2020-12-29 12:50,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 12:40,www.washingtonpost.com,https://www.washingtonpost.com/technology/2020/12/29/lens-technology-apple-uighur/,Neutral
+2020-12-29 11:40,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 08:40,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:40,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:40,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:40,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:40,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:40,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 12:50,www.investors.com,https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-amazon-google-lead/,Slightly Positive
+2020-12-29 11:25,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 09:25,www.usatoday.com,https://www.usatoday.com/story/tech/2020/12/29/amazon-apple-tiktok-uber-lyft-peloton-zoom-top-tech-2020/4066481001/,Positive
+2020-12-29 09:25,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:25,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 04:25,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:25,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:25,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:25,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 01:25,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 11:10,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 09:10,gadgets.ndtv.com,https://gadgets.ndtv.com/internet/news/apple-launch-mentorship-program-first-generation-college-students-early-2021-2345033,Positive
+2020-12-29 05:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:10,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 04:10,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:10,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:10,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:10,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 01:10,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-student-mentorship-program/,Positive
+2020-12-29 11:55,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:55,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:55,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:55,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 00:55,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-student-mentorship-program/,Positive
+2020-12-28 23:55,www.phonearena.com,https://www.phonearena.com/news/homePod-mini-now-supports-18w-charging_id129250,Positive
+2020-12-29 11:40,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:40,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:40,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:40,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:40,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:40,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-student-mentorship-program/,Positive
+2020-12-29 00:40,www.phonearena.com,https://www.phonearena.com/news/homePod-mini-now-supports-18w-charging_id129250,Positive
+2020-12-29 11:25,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:25,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:25,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 04:25,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:25,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:25,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:25,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 01:25,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:25,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-student-mentorship-program/,Positive
+2020-12-29 00:25,www.phonearena.com,https://www.phonearena.com/news/homePod-mini-now-supports-18w-charging_id129250,Positive
+2020-12-29 11:10,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:10,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:10,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 04:10,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:10,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:10,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:10,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 01:10,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:10,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-student-mentorship-program/,Positive
+2020-12-29 00:10,www.phonearena.com,https://www.phonearena.com/news/homePod-mini-now-supports-18w-charging_id129250,Positive
+2020-12-29 10:58,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:55,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:55,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:55,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:55,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 00:55,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:55,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-student-mentorship-program/,Positive
+2020-12-28 23:55,www.phonearena.com,https://www.phonearena.com/news/homePod-mini-now-supports-18w-charging_id129250,Positive
+2020-12-29 10:58,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
+2020-12-29 05:40,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
+2020-12-29 05:40,mybroadband.co.za,https://mybroadband.co.za/news/technology/381216-apple-shares-reach-all-time-high.html,Positive
+2020-12-29 03:40,appleinsider.com,https://appleinsider.com/articles/20/12/29/trump-administration-appeals-court-order-preventing-tiktok-ban,Negative
+2020-12-29 03:40,www.slashgear.com,https://www.slashgear.com/apple-watch-prototype-with-working-pre-watchos-1-0-surfaces-28652765/,Neutral
+2020-12-29 02:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-wallet-covid-vaccination-record/,Positive
+2020-12-29 01:40,9to5mac.com,https://9to5mac.com/2020/12/28/lg-rolling-out-airplay-2-and-homekit-support-for-its-2018-smart-tvs/,Positive
+2020-12-29 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/homepod-mini-update-adds-18w-charger-support/,Slightly Positive
+2020-12-29 00:40,www.macrumors.com,https://www.macrumors.com/2020/12/28/apple-student-mentorship-program/,Positive
+2020-12-29 00:40,www.phonearena.com,https://www.phonearena.com/news/homePod-mini-now-supports-18w-charging_id129250,Positive
 2020-12-29 10:58,www.theverge.com,https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype,Positive
 2020-12-29 07:25,www.gizmochina.com,https://www.gizmochina.com/2020/12/29/apple-watch-prototype-run-pre-watchos-new-images/,Slightly Positive
 2020-12-29 05:25,www.cnet.com,https://www.cnet.com/news/the-biggest-tech-stories-of-a-disastrous-2020/,Neutral
